@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-02T10:09:44Z",
+ "generatedAt": "2026-07-03T11:36:54Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -2165,8 +2165,10 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1075-2026",
    "recallDate": "2026-05-28",
    "lastPublishDate": "2026-06-24",
-   "images": [],
-   "blurHash": null,
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1075-2026-0.jpg"
+   ],
+   "blurHash": "LzQvwIof_4%Mxuj[agj[t8j[WAWB",
    "source": "FDA"
   },
   {
@@ -10124,7 +10126,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0861-2026-0.jpg"
    ],
-   "blurHash": "L,O|qpozxst7a$a}j@j[~VoeR+j?",
+   "blurHash": "LkNwG|t7_NaeMxRja|t7~qxvj[M{",
    "source": "FDA"
   },
   {
