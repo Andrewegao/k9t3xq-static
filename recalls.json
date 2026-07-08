@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-07T11:50:07Z",
+ "generatedAt": "2026-07-08T11:05:24Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -7079,7 +7079,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1079-2026-0.jpg"
    ],
-   "blurHash": "LOIgJ_VtsE$MHU9YJ6NG^855Rirs",
+   "blurHash": "LcMs=|pI~Wt7XmVutRax_1t5Ioo#",
    "source": "FDA"
   },
   {
@@ -7137,7 +7137,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0895-2026-0.jpg"
    ],
-   "blurHash": "LtQu{P%L?^bbv%juX5bF%MWVM{of",
+   "blurHash": "LyQSF^%L?^W;v$juSdbFs:ayRkj[",
    "source": "FDA"
   },
   {
@@ -10795,10 +10795,8 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1121-2026",
    "recallDate": "2026-04-29",
    "lastPublishDate": "2026-07-01",
-   "images": [
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1121-2026-0.jpg"
-   ],
-   "blurHash": "LXIrEjNM?wR:4poh9GRP4@kD%Ft4",
+   "images": [],
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -10854,7 +10852,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1119-2026-0.jpg"
    ],
-   "blurHash": "LXIrEjNM?wR:4poh9GRP4@kD%Ft4",
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -11159,7 +11157,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1113-2026-0.jpg"
    ],
-   "blurHash": "LwPjAAt6?wxv%MWBe-t7ozWBaes:",
+   "blurHash": "LjO3Xo=Y-pSy.ApIkCxvtBS6oyjF",
    "source": "FDA"
   },
   {
@@ -20910,7 +20908,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0911-2026-0.jpg"
    ],
-   "blurHash": "LnRp8vxu?dxu%gaeWAkC%4kCITax",
+   "blurHash": "LnSP95xu%%xu-qaeWmkCtmkCR4ae",
    "source": "FDA"
   },
   {
