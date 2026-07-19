@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-18T10:20:14Z",
+ "generatedAt": "2026-07-19T10:28:51Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -1634,7 +1634,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1130-2026-0.jpg"
    ],
-   "blurHash": "LaO|90%L?w%g?]M{MxxtyVtRVtM{",
+   "blurHash": "L:Ps*Et7~Xxubua{spj[tSj[V?WV",
    "source": "FDA"
   },
   {
@@ -1663,7 +1663,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1129-2026-0.jpg"
    ],
-   "blurHash": "LIMZ~_k?=$-5dosq=~xW%LMJV@.8",
+   "blurHash": "LiQI}2-o*0WF.8WCROt5uOS1ivt7",
    "source": "FDA"
   },
   {
@@ -4939,8 +4939,10 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1075-2026",
    "recallDate": "2026-05-28",
    "lastPublishDate": "2026-06-24",
-   "images": [],
-   "blurHash": null,
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1075-2026-0.jpg"
+   ],
+   "blurHash": "LzQvwIof_4%Mxuj[agj[t8j[WAWB",
    "source": "FDA"
   },
   {
@@ -6498,7 +6500,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0942-2026-0.jpg"
    ],
-   "blurHash": "LPPGv+%i_4=_Fkrp$vTKD%R*t8t7",
+   "blurHash": "L77yB[%LxZx@oyj[jtj@*GRQRRWB",
    "source": "FDA"
   },
   {
@@ -8961,7 +8963,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0912-2026-0.jpg"
    ],
-   "blurHash": "LlM?VXxtyDt7^-t7x]ofLfaeoMjb",
+   "blurHash": "LVOMB6t,yX%M?dRQ-;t8LfMvs8M{",
    "source": "FDA"
   },
   {
@@ -10230,7 +10232,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1079-2026-0.jpg"
    ],
-   "blurHash": "LdMs=|pI~Vt7XmVutRax?tt5Ioo#",
+   "blurHash": "LRR2}YoIn5xbzDtRS0kBhgRPWAVs",
    "source": "FDA"
   },
   {
@@ -10317,7 +10319,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0894-2026-0.jpg"
    ],
-   "blurHash": "LmR2}bt8?^x]#SjZS~a|tlj[iwf6",
+   "blurHash": "LrQ*ZR%2qFoy$*jss:j[M{aeoyj[",
    "source": "FDA"
   },
   {
@@ -11229,7 +11231,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1109-2026-0.jpg"
    ],
-   "blurHash": "LTMj:Of+?u%L$fMyW=of?]t7IUR*",
+   "blurHash": "LNP?~??b^,%M~XoMk9ofa_RjxuoL",
    "source": "FDA"
   },
   {
@@ -13407,7 +13409,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1117-2026-0.jpg"
    ],
-   "blurHash": "L[KLKaoy^-ozb[a}soocs:juW-bF",
+   "blurHash": "L~PZV#rsxZxYx[W.t7og.AkVR+bc",
    "source": "FDA"
   },
   {
@@ -13436,7 +13438,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1116-2026-0.jpg"
    ],
-   "blurHash": "LqPP_p-=ofbF%MWCafM__4Rjj]t7",
+   "blurHash": "LRBXg4t719S%t-bHVsj[9%WX-3sl",
    "source": "FDA"
   },
   {
@@ -13492,7 +13494,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1114-2026-0.jpg"
    ],
-   "blurHash": "LpPZcI-=ofW-%MWCafM__NRjj]t7",
+   "blurHash": "LRBXg4t719S%t-bHVsj[9%WX-3sl",
    "source": "FDA"
   },
   {
@@ -13518,10 +13520,8 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1113-2026",
    "recallDate": "2026-04-28",
    "lastPublishDate": "2026-07-01",
-   "images": [
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1113-2026-0.jpg"
-   ],
-   "blurHash": "LqPP_p-=ofbF%MWCafM__4Rjj]t7",
+   "images": [],
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -24131,7 +24131,7 @@
    "recallDate": "2026-01-09",
    "lastPublishDate": "2026-07-01",
    "images": [
-    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Launch_20222328-2.jpg?v=1646244401&width=1200"
+    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Jan2023-6345.jpg?v=1677265080&width=2000"
    ],
    "blurHash": null,
    "source": "FDA"
@@ -24162,7 +24162,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1103-2026-0.jpg"
    ],
-   "blurHash": "LDDA4Dqs^*Tft7w]IpEM~W%MR,NG",
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -24249,7 +24249,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1100-2026-0.jpg"
    ],
-   "blurHash": "LdOV_p?G.SI[-;tkWCn5?^o~spaJ",
+   "blurHash": null,
    "source": "FDA"
   },
   {
