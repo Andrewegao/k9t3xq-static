@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-07-29T11:28:12Z",
+ "generatedAt": "2026-07-30T11:10:05Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -2606,7 +2606,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1155-2026",
    "recallDate": "2026-06-19",
    "lastPublishDate": "2026-07-22",
-   "images": [],
+   "images": [
+    "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_auto:100,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_auto,e_sharpen:85/https://assets.brandplatform.generalmills.com/-/media/project/gmi/corporate/corporate-master/images/news-stories/2025/08/jfb_expansion.jpg%3Frev%3D482f489c6c1f42ed8c9e6be99cdb0198"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -2633,7 +2635,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1154-2026",
    "recallDate": "2026-06-19",
    "lastPublishDate": "2026-07-22",
-   "images": [],
+   "images": [
+    "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_auto:100,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_auto,e_sharpen:85/https://assets.brandplatform.generalmills.com/-/media/project/gmi/corporate/corporate-master/images/news-stories/2025/08/jfb_expansion.jpg%3Frev%3D482f489c6c1f42ed8c9e6be99cdb0198"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -2717,7 +2721,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1130-2026-0.jpg"
    ],
-   "blurHash": "L:Ps*Ft7~Xxubua{spj[tSj[V?WV",
+   "blurHash": "L:Ps*Et7~Xxubua{spj[tSj[V?WV",
    "source": "FDA"
   },
   {
@@ -9265,7 +9269,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0942-2026-0.jpg"
    ],
-   "blurHash": "LpP%FXt8_4xt?ZocNIofkYWCWAj]",
+   "blurHash": "LPPGv+%i_4=_Fkrp$vTKD%R*t8t7",
    "source": "FDA"
   },
   {
@@ -11615,7 +11619,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-0913-2026",
    "recallDate": "2026-05-19",
    "lastPublishDate": "2026-06-17",
-   "images": [],
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0913-2026-0.jpg"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -11645,7 +11651,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0912-2026-0.jpg"
    ],
-   "blurHash": "LlM?YfxtyDt7^-t7x]ofLfaeoMjb",
+   "blurHash": "LVOMB6t,yX%M?dRQ-;t8LfMvs8M{",
    "source": "FDA"
   },
   {
@@ -13832,7 +13838,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1109-2026-0.jpg"
    ],
-   "blurHash": "LZGS}t01?a%fWDxt%faKIns:tQoz",
+   "blurHash": "LNP?~??b^,%M~XoMk9ofa_RjxuoL",
    "source": "FDA"
   },
   {
@@ -13861,7 +13867,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0946-2026-0.jpg"
    ],
-   "blurHash": "LqN0l5xY?atSxFodRjt7*0ognONu",
+   "blurHash": "LnQ+=^DNRO-;%LjZayj]-=off6kC",
    "source": "FDA"
   },
   {
@@ -15981,7 +15987,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1117-2026-0.jpg"
    ],
-   "blurHash": "L{MRG2of_4t7b[bHspoKS1a{oJfi",
+   "blurHash": "L~P6:2kD_4%1xuj]axayxtj[RjWC",
    "source": "FDA"
   },
   {
@@ -16036,10 +16042,8 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1115-2026",
    "recallDate": "2026-04-28",
    "lastPublishDate": "2026-07-01",
-   "images": [
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1115-2026-0.jpg"
-   ],
-   "blurHash": "L~PP}dt7_4t7f+azs.j[X9ayadj@",
+   "images": [],
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -25332,7 +25336,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1103-2026-0.jpg"
    ],
-   "blurHash": null,
+   "blurHash": "L~O4C=t7~qxtkDays:j[t7j@WBay",
    "source": "FDA"
   },
   {
