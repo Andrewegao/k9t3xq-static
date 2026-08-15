@@ -1,7 +1,609 @@
 {
- "generatedAt": "2026-08-14T10:02:18Z",
+ "generatedAt": "2026-08-15T09:28:14Z",
  "source": "CPSC+FDA",
  "recalls": [
+  {
+   "id": "10930",
+   "recallNumber": "26702",
+   "title": "Hampton Bay Halwin 52-inch Indoor/Outdoor Ceiling Fans",
+   "headline": "Hampton Bay Halwin 52-Inch Ceiling Fans Recalled Due to Impact and Injury Hazards; Manufactured by Youngo Limited",
+   "brand": "Youngo",
+   "brandColorHex": "4A7A3B",
+   "category": "other",
+   "productName": "Hampton Bay Halwin 52-inch Indoor/Outdoor Ceiling Fans",
+   "hazard": "The fan blades can separate from the fan motor flywheel, posing impact and injury hazards to consumers.",
+   "description": "This recall involves Hampton Bay Halwin 52-inch Indoor/Outdoor Ceiling fans with model numbers AK396H-MBK and AK396H-BN. The recalled fans have an adjustable white LED light, come in a matte black or brushed nickel finish, and include a remote. UPCs \"840059614922\" or \"840059615370\" are located on the product packaging, the rating label located on the inside of fan mounting plate (same label as the serial number), and the warranty registration card packed with the Use and Care Guide.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled ceiling fans immediately and contact Youngo for either a full refund by ACH payment or store credit in the form of a Home Depot gift card. To receive either option, consumers should contact Youngo with proof of purchase or a photograph of the serial number (located inside the mounting plate of the ceiling fan) and a photo showing proof of disposal of the product. Alternatively, consumers may return the product to a Home Depot retail store for full store credit in the form of a Home Depot gift card or refund back to the card used for purchase.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 18000,
+   "noReceiptNeeded": false,
+   "claimEase": 0,
+   "recognizability": 2,
+   "retailer": "The Home Depot",
+   "units": "About 9,460",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Hampton-Bay-Halwin-52-Inch-Ceiling-Fans-Recalled-Due-to-Impact-and-Injury-Hazards-Manufactured-by-Youngo-Limited",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10930-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10930-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LLRC-=_3_3~qM_Rj%MRi?vD$RPt7"
+  },
+  {
+   "id": "10929",
+   "recallNumber": "26701",
+   "title": "Sunnyside Corporation Recalls 1-K Kerosene Heater and Applia",
+   "headline": "Sunnyside Corporation Recalls 1-K Kerosene Heater and Appliance Fuel Containers Due to Risk of Serious Injury or Death from Flash Fire and Burn Hazard; Violates Mandatory Standards for Portable Fuel Containers",
+   "brand": "Sunnyside",
+   "brandColorHex": "A03B6E",
+   "category": "home_kitchen",
+   "productName": "Sunnyside Corporation Recalls 1-K Kerosene Heater and Applia",
+   "hazard": "The pre-filled fuel containers violate the mandatory safety standards of the Portable Fuel Container Safety Act because they lack flame mitigation devices, posing a deadly risk of flash fire and burn hazard.",
+   "description": "This recall involves Sunnyside gallon 1-K Kerosene Heater and Appliance Fluid Portable Fuel Containers with batch number 26082. The bottles come in white plastic containers with white caps and have a multicolor label with the words \"sunnyside\" and \"kerosene\". The container has labels on front and back and contains warning statements and distributor information.  The batch number is located on the upper right front of bottle.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled fuel bottles immediately, place them out of reach of children, and contact Sunnyside for a full refund. Consumers will be asked to write \"RECALLED\" with permanent marker on the bottle; and submit a photo of it to info@sunnysidecorp.com. Consumers should dispose of the fuel bottles in accordance with local and state regulations. Note: Kerosene fuel is hazardous. Fuel containers should be disposed of or recycled by following local hazardous waste procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 1300,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 960",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Sunnyside-Corporation-Recalls-1-K-Kerosene-Heater-and-Appliance-Fuel-Containers-Due-to-Risk-of-Serious-Injury-or-Death-from-Flash-Fire-and-Burn-Hazard-Violates-Mandatory-Standards-for-Portable-Fuel-Containers",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10929-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10929-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10929-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10929-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LkL|[o4T~qoc%It6bJWBtmozi_oe"
+  },
+  {
+   "id": "10928",
+   "recallNumber": "26700",
+   "title": "Zimtown Portable Gas and Fuel Cans",
+   "headline": "Fastbuy Recalls Zimtown Portable Gas and Fuel Cans Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers",
+   "brand": "Zimtown",
+   "brandColorHex": "3B6FB0",
+   "category": "other",
+   "productName": "Zimtown Portable Gas and Fuel Cans",
+   "hazard": "The fuel containers violate the requirement for closures under the Children's Gasoline Burn Prevention Act because the closure is not child-resistant, posing a risk of burns and poisoning to children.",
+   "description": "This recall involves Zimtown Portable \"Jerry\" style Gas and Fuel Cans with spout. The metal 5.0 gallon (20L) fuel cans come in red and army green. The cans have a white spout and yellow vent cap. The assembled product dimensions are 4.76 x 8.49 x 19.29 inches.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the gas and fuel containers immediately and contact Fastbuy for a full refund. Consumers should disassemble the spout, cut it into pieces with scissors and dispose of it separately from the container. Consumers will be asked to write \"RECALLED\" on the container and submit photos of the product to ZimtownFuelCanrecall@outlook.com separately.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 6300,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Walmart.com",
+   "units": "About 200",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Fastbuy-Recalls-Zimtown-Portable-Gas-and-Fuel-Cans-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10928-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10928-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LvOzVyxu~qxu-;WBM{t7_4j[D%WB"
+  },
+  {
+   "id": "10927",
+   "recallNumber": "26699",
+   "title": "SUGIFT Electric Pressure Washers, Model LTBBHG006",
+   "headline": "SUGIFT Recalls SUGIFT Pressure Washers Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards",
+   "brand": "SUGIFT",
+   "brandColorHex": "B07A3B",
+   "category": "other",
+   "productName": "SUGIFT Electric Pressure Washers, Model LTBBHG006",
+   "hazard": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and, because the power cord is short, it may encourage use of an extension cord, posing serious risks of injury or death from shock and electrocution hazards.",
+   "description": "This recall involves SUGIFT-branded pressure washers. The recalled, 2.8 GPM electric pressure washers are orange and black, and measure about 11.4 inches deep, 12.7 inches wide and 25.2 inches high. The pressure washers come with a touch screen, foam cannon, four quick disconnect nozzles, a 20-foot hose and two rollers. Labeling on the front of the pressure washer reads \"High Pressure Washer\". The model number LTBBHG006 does not appear on the product but it was included in the Best Buy website listing.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled pressure washers immediately and contact SUGIFT for a full refund. Consumers will be asked to destroy the pressure washer by cutting the power cord in half (the product should be completely turned off and unplugged from power outlet) and send a photo of the destroyed pressure washer to steven@sugift.net. Consumers should then dispose of the destroyed recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 15500,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 0,
+   "retailer": "bestbuy.com",
+   "units": "13",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/SUGIFT-Recalls-SUGIFT-Pressure-Washers-Due-to-Serious-Risk-of-Injury-or-Death-From-Shock-and-Electrocution-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10927-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10927-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LVF=aX.9^+XmuP?Ho}s.~XozR*RP"
+  },
+  {
+   "id": "10926",
+   "recallNumber": "26698",
+   "title": "CuberShop Magnetic Stickerless Speed Cubes, model YJ MGC 5×5",
+   "headline": "CuberShop Magnetic Speed Cubes Recalled Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Toys; Imported by SKY CUBE HK",
+   "brand": "SKY CUBE HK",
+   "brandColorHex": "B07A3B",
+   "category": "children_baby",
+   "productName": "CuberShop Magnetic Stickerless Speed Cubes, model YJ MGC 5×5",
+   "hazard": "The recalled magnetic cubes violate the mandatory standard for toys because the cubes were packaged with loose high-powered magnets, posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+   "description": "This recall involves CuberShop's Magnetic Stickerless Speed Cubes, model YJ MGC 5×5. The products are a handheld 5×5 mechanical puzzle cubes that consists of interlocking plastic pieces. The Speed Cubes have six colored sides and the \"MGC\" logo printed on the center of the cubes. The Speed Cubes come in a box with \"MGC\" and \"5x5\" printed on the sides of the box. The product's packaging included spare magnets that were packaged separately in a sealed plastic bag.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should take the recalled loose magnets away from children, stop using them immediately, and contact SKY CUBE HK for information on how to receive a $5 refund. Consumers will be asked to throw away the magnets and email a photo of the disposed magnets to recall@cubershop.com. Consumers may keep the cube.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 2500,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 132",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/CuberShop-Magnetic-Speed-Cubes-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Toys-Imported-by-SKY-CUBE-HK",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10926-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10926-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10926-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10926-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LSP76C4y18%MDmxVO@X8RP$|x[WY"
+  },
+  {
+   "id": "10925",
+   "recallNumber": "26697",
+   "title": "Shengsen Prank Sound Maker",
+   "headline": "Shengsen Prank Sound Makers Recalled Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Consumer Products with Coin Batteries; Imported by Shengsen Toys",
+   "brand": "Shengsen Toys",
+   "brandColorHex": "4A7A3B",
+   "category": "children_baby",
+   "productName": "Shengsen Prank Sound Maker",
+   "hazard": "The recalled sound maker violates the mandatory safety standard for consumer products with button cell and coin batteries because the lithium coin batteries can be accessed easily by children, posing an ingestion hazard. Additionally, the packaging and product do not have the warnings required under Reese's Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+   "description": "This recall involves Shengsen Prank Sound Maker. The toys were sold in sets of three and come in yellow with a black push button. \"SKU: AJ0192-Y-3\" and \"ASIN: B0CB9WV7XN\" are printed on the product's packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the sound maker immediately and contact Shengsen Toys for a full refund. Consumers will be asked to properly dispose of the sound maker into the trash and send a photo of the disposed product to ywpower@outlook.com. Note: Button cell and coin batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 800,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 667",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Shengsen-Prank-Sound-Makers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Consumer-Products-with-Coin-Batteries-Imported-by-Shengsen-Toys",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10925-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10925-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LOM7Z3tSoftS~qt7ayt7_3j?azj?"
+  },
+  {
+   "id": "10924",
+   "recallNumber": "26696",
+   "title": "Ritchey Carbon Fiber Bicycle Forks",
+   "headline": "Ritchey Design Recalls Carbon Bicycle Forks Due to Risk of Serious Injury or Death from Fall and Crash Hazards",
+   "brand": "Ritchey Design",
+   "brandColorHex": "B07A3B",
+   "category": "sports_outdoors",
+   "productName": "Ritchey Carbon Fiber Bicycle Forks",
+   "hazard": "The alloy insert located in the front crown hole of the carbon fork can come loose, causing an accessory to fall off and land on the bike's front wheel, posing a risk of serious injury or death from a fall and crash hazard.",
+   "description": "This recall involves Ritchey Carbon Fiber Bicycle Forks with a crown hole. The fork fits on the front of the bicycle to hold the front wheel in place. The fork is sold individually and with certain Ritchey bicycle framesets. The framesets were sold as Montebello (Hot sauce color), Septimer (Black & White color) and Outback (Aurora and Winter Sage color). The individual black carbon forks were sold as WCS Carbon Mountain Adventure Fork, WCS Carbon Brevet Road Fork, WCS Carbon Adventure Gravel Fork and WCS Carbon Tapered Adventure Gravel Fork. The brand name \"Ritchey\" is located on the fork.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers are asked to stop using the bicycles equipped with the recalled fork immediately. Please inspect the front crown hole for any attached racks or accessories. The threaded hole located above the front wheel should be closed immediately. Consumers should register at https://ritcheylogic.com/support/recall to receive a free Ritchey Fork Crown Hole Closure Kit with instructions. All carbon bicycle forks with crown mounting holes are included in the recall.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": false,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Performance Bike",
+   "units": "About 775",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Ritchey-Design-Recalls-Carbon-Bicycle-Forks-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Crash-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10924-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10924-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10924-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10924-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LxG,3IjYt7j]?wflj]j[xtofWBj["
+  },
+  {
+   "id": "10923",
+   "recallNumber": "26695",
+   "title": "Qabefy Mattresses",
+   "headline": "Mattresses Recalled Due to Risk of Serious Injury or Death from Fire Hazard; Violate Mandatory Standard for Mattress Flammability; Sold on Amazon by Qabefy",
+   "brand": "Qabefy",
+   "brandColorHex": "5A7AB0",
+   "category": "home_kitchen",
+   "productName": "Qabefy Mattresses",
+   "hazard": "The recalled mattresses violate the mandatory flammability standard for mattresses, posing a risk of serious injury or death from fire.",
+   "description": "This recall involves Qabefy-branded mattresses. They are 10 inches thick and were sold in twin sizes. They have a white top and black sides with orange trim. They were sold in a compressed box. \"Item NO.: CD01101US\" is printed on the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled mattresses immediately and contact Qabefy for a full refund. Consumers will be asked to destroy the mattress, by writing in permanent marker \"Recalled,\" their name and the current date on the mattress's top surface, and to email a photo of the destroyed mattress to Sixiang2023@gmail.com. Consumers should then dispose of the recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 14000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 774",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Mattresses-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard-Violate-Mandatory-Standard-for-Mattress-Flammability-Sold-on-Amazon-by-Qabefy",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10923-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10923-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LCIORsR*4nxtWA%MIUof0Kxu?bof"
+  },
+  {
+   "id": "10922",
+   "recallNumber": "26694",
+   "title": "Merax Full-Size and Twin-Size Murphy Beds",
+   "headline": "GigaCloud Technology USA Recalls Merax Murphy Beds Due to Risk of Serious Injury or Death from Impact and Crush Hazards",
+   "brand": "GigaCloud Technology (USA)",
+   "brandColorHex": "A03B6E",
+   "category": "other",
+   "productName": "Merax Full-Size and Twin-Size Murphy Beds",
+   "hazard": "During assembly or disassembly, the frame of the wall bed can fall onto consumers, posing deadly impact, crush and laceration hazards.",
+   "description": "This recall involves full-size and twin-size Merax Murphy beds with model numbers GX000392AAK, GX000391AAK or GX000383AAK, all sold in white. The beds are designed to be wall-mounted and can fold into a cabinet. The following model numbers and SKU codes are included in the recall: Model Number SKU Codes Dimensions GX000392AAK WF530245, WF530246, WF530247, WF530248 78.2\" L x 108.4\" W x 99\" H GX000391AAK WF530240, WF530241, WF530242, WF530243 78.2\" L x 93.2\" W x 99\" H GX000383AAK WF324470, WF324471, WF324472 76\" L x 95.2\" W x 83.8\" H The same product may have been sold by other marketplace sellers under different brand names such as Euroco, Harper & Bright Designs, Modern Luxe, Polibi, other brand names or without a brand name. The SKU code on all recalled products, regardless of brand name, is located on a sticker on the inside frame of the recalled Murphy beds.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers should stop using the recalled Murphy beds immediately and contact GigaCloud Technology for a free repair kit. Consumers that have not assembled the Murphy bed will receive a repair kit consisting of unloaded piston springs, updated assembly instructions and inspection instructions. Consumers that have assembled the Murphy bed will receive inspection instructions. If the consumer determines that the Murphy bed is assembled incorrectly, GigaCloud Technology will provide the consumer with a professional installer to correct or complete the installation, at no cost to the consumer.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 1,250",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/GigaCloud-Technology-USA-Recalls-Merax-Murphy-Beds-Due-to-Risk-of-Serious-Injury-or-Death-from-Impact-and-Crush-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10922-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10922-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10922-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10922-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LPMtjiNFWBx[_NWBM{WVoexuRjRj"
+  },
+  {
+   "id": "10921",
+   "recallNumber": "26693",
+   "title": "Youth All-Terrain Vehicles (ATVs), model XW-A19",
+   "headline": "Yamazuki Recalls Youth All-Terrain Vehicles (ATVs) Due to Risk of Serious Injury or Death from Crash Hazard; Violates Mandatory Standard for ATVs",
+   "brand": "HOVERHEART",
+   "brandColorHex": "5A7AB0",
+   "category": "vehicles_gear",
+   "productName": "Youth All-Terrain Vehicles (ATVs), model XW-A19",
+   "hazard": "The recalled youth ATVs violate the mandatory safety standard for ATVs because the parking brakes fail to hold and the ATV's speed limiting device is not set to the restricted speed required for children ages six (6) and older, posing a crash hazard. Additionally, the ATVs are missing the required rear safety reflectors, reducing visibility of the youth ATV to other vehicles, posing a deadly crash hazard.",
+   "description": "This recall involves Yamazuki's QEASET or HOVERHEART-branded youth ATVs, model XW-A19. The 40-cubic centimeters, gasoline youth ATVs were sold in blue, pink, red, green camouflage and an American flag motif. \"Yamazuki, Inc.\" and the model are printed on the identification plate located on the front left side of the vehicle's frame column.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers should stop using the recalled youth ATVs immediately and contact Yamazuki for a free repair kit, including shipping. The repair kit consists of replacement parking brake latches, rear safety reflectors, an owner's manual storage bag and repair tools.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 1,050 (Yamazuki vehicles model XW-A17 were previously recalled in June 2026)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Yamazuki-Recalls-Youth-All-Terrain-Vehicles-ATVs-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard-Violates-Mandatory-Standard-for-ATVs",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-4.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10921-5.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LwJ[L_j]-;tR%MRQxut7~qj?fRju"
+  },
+  {
+   "id": "10920",
+   "recallNumber": "26692",
+   "title": "COMMOWNER Pressure Washers",
+   "headline": "COMMOWNER Pressure Washers Recalled Due to Serious Risk of Injury or Death from Shock and Electrocution Hazards; Imported by AZ Home Concept",
+   "brand": "COMMOWNER",
+   "brandColorHex": "7A5A3B",
+   "category": "other",
+   "productName": "COMMOWNER Pressure Washers",
+   "hazard": "The recalled pressure washers lack an integral ground-fault circuit-interrupter (GFCI) and, because the power cord is short, it may encourage use of an extension cord, posing serious risks of injury or death from shock and electrocution hazards.",
+   "description": "This recall involves COMMOWNER-branded pressure washers. The recalled 3 GPM electric pressure washers are orange or green or blue with black parts and measure about 11 inches deep by 9 inches wide and 25 inches high. They came with a 500 ml tank, foam cannon, four quick connect nozzles, and a 33-foot hose. Model number \"HD14P-Z\" is printed on a label on the back of the pressure washers. When purchased, the washer may have also been listed as model number HX18.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled pressure washers immediately and contact AZ Home Concept for a full refund. Consumers will be asked to destroy the pressure washer by cutting the unplugged power cord in half and send a photo of the destroyed power washer to pressurewasherrecall@outlook.com. Consumers should then dispose of the destroyed recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 15000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com in April 2026",
+   "units": "1,694",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/COMMOWNER-Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Imported-by-AZ-Home-Concept",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10920-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10920-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LuPPy7x]?^n%x]t7$*ogkWayjFj["
+  },
+  {
+   "id": "10919",
+   "recallNumber": "26691",
+   "title": "Deli Jerry Fuel Containers",
+   "headline": "Deli Jerry Fuel Containers Recalled Due to Risk of Serious Injury or Death from Burn Hazard and Child Poisoning; Violate Mandatory Standard for Portable Fuel Containers; Sold on Walmart.com by Deli OfficeSupplies",
+   "brand": "Deli",
+   "brandColorHex": "B07A3B",
+   "category": "other",
+   "productName": "Deli Jerry Fuel Containers",
+   "hazard": "The recalled fuel containers violate the requirement for closures under the Children's Gasoline Burn Prevention Act. The closure is not child-resistant, posing a risk of burns and poisoning to children.",
+   "description": "This recall involves Deli-branded fuel containers. They are dark green metal cans and have a cap and a plastic tube. The fuel containers were sold in 5.3-gallon (20-liter), 6.6-gallon (25-liter) and 7.9-gallon (30-liter) capacities. The brand's Star logo and the capacity are embossed on the side of the containers.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled fuel containers immediately and contact Deli OfficeSupplies for a full refund. Consumers will be asked to destroy the fuel container by writing in permanent maker \"RECALLED\" on the product and to send a photo of the destroyed fuel container to service@steelitetool.com. Consumers should then dispose of the recalled product in accordance with local and/or state disposal procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 3600,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Walmart.com",
+   "units": "About 1,750",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Deli-Jerry-Fuel-Containers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-and-Child-Poisoning-Violate-Mandatory-Standard-for-Portable-Fuel-Containers-Sold-on-Walmart-com-by-Deli-OfficeSupplies",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10919-0.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LuNKS4_3~qIUt7j[t7ay-;M{Int7"
+  },
+  {
+   "id": "10918",
+   "recallNumber": "26690",
+   "title": "DUMOS Nine-Drawer Dressers",
+   "headline": "DUMOS Nine-Drawer Dressers Recalled Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+   "brand": "Jiangsu Jiayubo Furniture",
+   "brandColorHex": "B08A3B",
+   "category": "home_kitchen",
+   "productName": "DUMOS Nine-Drawer Dressers",
+   "hazard": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+   "description": "This recall involves DUMOS Nine-Drawer Fabric Dressers. They were sold as television stand dressers in white, black, gray and brown, have a metal frame that measures about 13.4 inches wide, 47 inches long and 31.3 inches tall, and weigh 31.5 pounds. The dressers have LED lights and built-in power outlets and ports with an attached electrical cable. SKU WMEDX-FC-TVK9CDC-RT, WMEDX-FC-TVK9CDC-GY, WMEDX-FC-TVK9CDC-BK or WMEDX-FC-TVK9CDC-WT is printed on a label attached to the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should immediately stop using the recalled dressers if they are not anchored to the wall and place them in an area that children cannot access. Consumers should contact DUMOS for a full refund. Consumers will be asked to destroy the dressers by cutting the drawers in half and writing in permanent marker \"RECALLED\", and to send a photo of the destroyed dressers to dumosdresserrecall@dumos.com. Consumers should then dispose of the recalled products.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5400,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 8,981",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/DUMOS-Nine-Drawer-Dressers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10918-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10918-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LSIEz;%MIUof~pofxaofRjj[a#fi"
+  },
+  {
+   "id": "10917",
+   "recallNumber": "26689",
+   "title": "TooyBing Wooden Bead Stacking Toys",
+   "headline": "TooyBing Wooden Bead Stacking Toys Recalled Due to Risk of Serious Injury or Death from Choking; Violate Small Parts Ban",
+   "brand": "Guangzhou Yide Toys",
+   "brandColorHex": "B08A3B",
+   "category": "children_baby",
+   "productName": "TooyBing Wooden Bead Stacking Toys",
+   "hazard": "The recalled toys violate the small parts ban because they are intended for children under three years old and the wooden beads pose a deadly choking hazard to young children.",
+   "description": "This recall involves the TooyBing Wooden Bead Stacking Toy, model TB-MZWJ. The multicolored toys consist of 25 pink, blue, red, orange, purple, green, white and yellow wooden beads, two wood sticks with yellow and red string laces attached, eight pattern cards and one wooden pegged stand. \"TooyBing,\" \"Montessori Wooden Toy\" and \"Fun Bead Sequencing Games\" are printed on the front of the product packaging and \"Model number: TB-MZWJ\" is on the back.",
+   "remedyType": "replace",
+   "remedyDetail": "Consumers should stop using the toys immediately, take them away from children, and contact TooyBing for free replacement. Consumers will be asked to destroy the toys by cutting the red and yellow string laces, writing in permanent marker \"RECALLED\" on the top of the wooden pegged stand and send a photo of the destroyed toy to tooybingwoodenbeadrecall@gmail.com. Consumers should then dispose of the destroyed product. Compliant replacement toys will not be available until October, and consumers will be asked to register for the replacement. TooyBing with contact registered consumers when it is available.",
+   "remedyOptions": [
+    "replace"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 21,758",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/TooyBing-Wooden-Bead-Stacking-Toys-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Small-Parts-Ban",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10917-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10917-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10917-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LKPiq|-X=}^j}ukC$bJE-;pJVzx["
+  },
+  {
+   "id": "10916",
+   "recallNumber": "26688",
+   "title": "Taleco Gear Recalls Baby Jumpers, Baby Swings and 2-in-1 Bab",
+   "headline": "Taleco Gear Recalls Baby Jumpers, Baby Swings and 2-in-1 Baby Jumper & Swings Due to Risk of Serious Injury or Death from Fall and Strangulation Hazards",
+   "brand": "Taleco Gear",
+   "brandColorHex": "4A7A3B",
+   "category": "children_baby",
+   "productName": "Taleco Gear Recalls Baby Jumpers, Baby Swings and 2-in-1 Bab",
+   "hazard": "The baby jumper, baby swing and 2-in-1 baby jumper & swing can become unstable, posing fall and impact hazards. Additionally, the hanging restraint straps and seat openings can pose strangulation hazards.",
+   "description": "This recall involves G Taleco Gear Baby Jumpers, Baby Swings and Baby Jumper & Swings, sold in black, white, gray, pink, blue and green. The following model numbers are included in the recall: Product Name Model Number Baby Jumper jumper-01 Baby Swing swing-1 2-in-1 Jumper & Swing-A jumper-01 2-in-1 Jumper & Swing-B jumper-01 The model number can be found on the fabric wash and care label sewn into the fabric seat cover.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled products immediately and contact Taleco Gear to receive a full refund. Consumers will be provided with instructions on how to destroy the recalled products and provide photos of the destroyed parts to obtain a full refund.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 12000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 41,100 (In addition, 150 were sold in Canada)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Taleco-Gear-Recalls-Baby-Jumpers-Baby-Swings-and-2-in-1-Baby-Jumper-Swings-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-and-Strangulation-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10916-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10916-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10916-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10916-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LBSs50_3~q~q~qofoLof%Mj[IUWB"
+  },
+  {
+   "id": "10915",
+   "recallNumber": "26687",
+   "title": "Brookstone-branded Tabletop Fire Pits",
+   "headline": "Southern Telecom Recalls Brookstone-Branded Tabletop Fire Pits Due to Risk of Serious Burn Injury or Death from Flame Jetting and Fire Hazards",
+   "brand": "Brookstone",
+   "brandColorHex": "B03B4A",
+   "category": "other",
+   "productName": "Brookstone-branded Tabletop Fire Pits",
+   "hazard": "Use of the fire pits can result in uncontrolled pool fires where flames burn across the surface of pooled or spilled alcohol, as well as flame jetting from fuel containers, resulting in serious or fatal burns.",
+   "description": "This recall involves Brookstone-branded indoor/outdoor Tabletop Fire Pits with model number BSFIREPIT01 (UPC code 680079015930); BSFIREPIT02 (UPC code 680079015947); and BSFIREPIT03 (UPC code 680079015954). The fire pits consist of a round or hexagonal concrete open reservoir intended to contain burning liquid alcohol. The model number and the UPC code are located on the bottom of the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the Brookstone-branded Tabletop Fire Pits immediately and contact Southern Telecom to receive a full refund. Consumers can email a photo of the fire pit with \"Recalled,\" their name, and the date written on it in permanent marker to support@customersupport123.com and then dispose of the product. Do not sell or give away these hazardous products.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 2500,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Macy's",
+   "units": "About 48,700",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Southern-Telecom-Recalls-Brookstone-Branded-Tabletop-Fire-Pits-Due-to-Risk-of-Serious-Burn-Injury-or-Death-from-Flame-Jetting-and-Fire-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10915-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10915-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10915-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LSMaCK?v%Nsk~pRjIoxZxvWBadoz"
+  },
+  {
+   "id": "10914",
+   "recallNumber": "26686",
+   "title": "Goody King Magnetic Building Cubes and Blocks",
+   "headline": "Goody King Magnetic Building Cubes and Blocks Recalled Due to Risk of Serious Injury or Death from Magnetic Ingestion Hazard; Imported by Yi Suen Commerce",
+   "brand": "Goody King",
+   "brandColorHex": "6E54B0",
+   "category": "other",
+   "productName": "Goody King Magnetic Building Cubes and Blocks",
+   "hazard": "The recalled magnetic building cubes contain magnets that can become loose if the cubes break or open, posing a magnet ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other, or other metal objects, and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+   "description": "This recall involves Goody King-branded Magnetic Building Cubes, which are magnetic cubes sold in sets of 45, 56, 100, 120, 150 and 300. The cubes contain small, powerful magnets that allow the cubes to stick together and create 3D designs. The sets are available in a variety of themed building/landscape designs and colors. The following model numbers are included in the recall: Style Name Model Number(s) Cute Zob ZB150 Dark Castle DK100, GC150 Dinosaur DIN100 Farm FM100 Firefighter FF100 Forest FR200, PX200, FR300 Galaxy GL100 Game MR200 Grassland Forest FR150 Magic MG100 Mineral Adventure MA200 Sky Grass SI150 Solid Blocks SB56 Transparent Solid Blocks TSB56 Travel Game MR045 Unicorn UN100, UN150 Volcano Forest VF200 Woods WD100 The model numbers of the recalled cubes are located on the back of the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled magnetic building cubes immediately and contact Yi Suen Commerce for a full refund. Consumers will be provided with a pre-paid label to return the recalled magnetic cubes to receive a refund.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5000,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 213,500",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Goody-King-Magnetic-Building-Cubes-and-Blocks-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnetic-Ingestion-Hazard-Imported-by-Yi-Suen-Commerce",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-4.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10914-5.jpg",
+    "https://www.cpsc.gov/s3fs-public/GoodyKing-7.jpg",
+    "https://www.cpsc.gov/s3fs-public/GoodyKing-8.png",
+    "https://www.cpsc.gov/s3fs-public/GoodyKing-9.jpg",
+    "https://www.cpsc.gov/s3fs-public/GoodyKing-10.png"
+   ],
+   "source": "CPSC",
+   "blurHash": "LVLz,Dxa=yxc?0%3bubX_4ozR+xb"
+  },
+  {
+   "id": "10913",
+   "recallNumber": "26685",
+   "title": "Cooluli Minifridges, 10-Liter and 15-Liter models",
+   "headline": "Cooluli Recalls 10-Liter and 15-Liter Minifridges Due to Fire and Burn Hazards",
+   "brand": "Ningbo Iceberg Electronic Appliance",
+   "brandColorHex": "A03B6E",
+   "category": "electronics",
+   "productName": "Cooluli Minifridges, 10-Liter and 15-Liter models",
+   "hazard": "The recalled minifridges' electrical switch can short circuit, posing fire and burn hazards.",
+   "description": "This recall involves 10-Liter and 15-Liter Cooluli minifridges with an internal power supply and two power input ports (AC and DC) on the back of the minifridge, instead of a single DC port. The removable power cord on the recalled minifridges does not have a \"brick\" power adapter (as is commonly used with laptop chargers). \"Cooluli\" is printed on the front of the minifridges. They were sold in a variety of colors including black, blue, green, white and red or with multicolored patterns, photos and logos. The recall includes batch numbers 1535 through 1545 and 1200000 through 1202080. The model (ITEM #:) and batch numbers are printed on a label on the inside of the minifridge door. The minifridges were sold in the Infinity, Classic, Glow Beauty and Vibe Series.",
+   "remedyType": "replace",
+   "remedyDetail": "Consumers should stop using the recalled minifridges immediately and contact Cooluli for a free replacement power cord. Consumers will be asked to visit www.cooluli.com/pages/product-notices-recalls to enter the model and batch numbers to determine whether their minifridge is included in the recall. Consumers who have recalled minifridges will be instructed to unplug the minifridge, cut the power cord and submit photos to Cooluli showing the model and batch numbers of the fridge. Cooluli will provide a replacement DC power cord and permanent sticker to cover the AC port.",
+   "remedyOptions": [
+    "replace"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Amazon.com",
+   "units": "About 250,000",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Cooluli-Recalls-10-Liter-and-15-Liter-Minifridges-Due-to-Fire-and-Burn-Hazards",
+   "recallDate": "2026-08-13",
+   "lastPublishDate": "2026-08-14",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10913-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10913-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10913-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10913-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10913-4.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LdIOLU~p-;o#x]%MtRofRkRkoMs:"
+  },
   {
    "id": "10912",
    "recallNumber": "26677",
@@ -2887,8 +3489,10 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1180-2026",
    "recallDate": "2026-07-08",
    "lastPublishDate": "2026-07-29",
-   "images": [],
-   "blurHash": null,
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1180-2026-0.jpg"
+   ],
+   "blurHash": "LZM@[X4,~XRi-rRQaxog^--=NFRi",
    "source": "FDA"
   },
   {
@@ -5329,7 +5933,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1155-2026",
    "recallDate": "2026-06-19",
    "lastPublishDate": "2026-07-22",
-   "images": [],
+   "images": [
+    "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_auto:100,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_auto,e_sharpen:85/https://assets.brandplatform.generalmills.com/-/media/project/gmi/corporate/corporate-master/images/news-stories/2025/08/jfb_expansion.jpg%3Frev%3D482f489c6c1f42ed8c9e6be99cdb0198"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -5356,7 +5962,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1154-2026",
    "recallDate": "2026-06-19",
    "lastPublishDate": "2026-07-22",
-   "images": [],
+   "images": [
+    "https://brandsitesplatform-res.cloudinary.com/image/fetch/w_auto:100,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_auto,e_sharpen:85/https://assets.brandplatform.generalmills.com/-/media/project/gmi/corporate/corporate-master/images/news-stories/2025/08/jfb_expansion.jpg%3Frev%3D482f489c6c1f42ed8c9e6be99cdb0198"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -11589,7 +12197,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1145-2026-0.jpg"
    ],
-   "blurHash": "LmP=cxxa*J%LxvayozkC.TayV@bb",
+   "blurHash": "LyR-@rxay?xu%gflR*jsu5j[VsbI",
    "source": "FDA"
   },
   {
@@ -12872,8 +13480,10 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1152-2026",
    "recallDate": "2026-05-26",
    "lastPublishDate": "2026-07-22",
-   "images": [],
-   "blurHash": null,
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1152-2026-0.jpg"
+   ],
+   "blurHash": "LQO|X,?b9DRingt6jYax?boet8of",
    "source": "FDA"
   },
   {
@@ -16692,7 +17302,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1109-2026-0.jpg"
    ],
-   "blurHash": "LZGS}t01?a%fWDxt%faKIns:tQoz",
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -16718,7 +17328,9 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-0946-2026",
    "recallDate": "2026-05-06",
    "lastPublishDate": "2026-06-24",
-   "images": [],
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0946-2026-0.jpg"
+   ],
    "blurHash": null,
    "source": "FDA"
   },
@@ -18438,7 +19050,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1114-2026-0.jpg"
    ],
-   "blurHash": "LjO3Xo=Y-pSy.ApIkCxvtBS6oyjF",
+   "blurHash": "L?OgD@t6_4tRxtfPayj[R*ayn$ay",
    "source": "FDA"
   },
   {
@@ -21646,7 +22258,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0916-2026-0.jpg"
    ],
-   "blurHash": "LqOf+6xu.8xu-;ozWBV@?^WBMxj?",
+   "blurHash": null,
    "source": "FDA"
   },
   {
@@ -26593,7 +27205,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1103-2026-0.jpg"
    ],
-   "blurHash": null,
+   "blurHash": "LQJseB-pM_xZREaLRlNb~De.o#o#",
    "source": "FDA"
   },
   {
@@ -26680,7 +27292,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1100-2026-0.jpg"
    ],
-   "blurHash": null,
+   "blurHash": "LXLe~O0_Orw3w^R%RkRkx^o#R+WB",
    "source": "FDA"
   },
   {
@@ -26794,7 +27406,7 @@
    "recallDate": "2026-01-09",
    "lastPublishDate": "2026-07-01",
    "images": [
-    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Launch_20222328-2.jpg?v=1646244401&width=1200"
+    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Launch_20222328-2.jpg?v=1646244401&width=2000"
    ],
    "blurHash": null,
    "source": "FDA"
