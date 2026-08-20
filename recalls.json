@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-08-19T09:37:24Z",
+ "generatedAt": "2026-08-20T09:36:14Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -7284,7 +7284,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1174-2026-0.jpg"
    ],
-   "blurHash": "LJI#J1~oAIW.t9yCS$R+E+%L-noL",
+   "blurHash": "LGD+|^Mx%gae02%M%1RROZNabvo|",
    "source": "FDA"
   },
   {
@@ -17388,7 +17388,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0895-2026-0.jpg"
    ],
-   "blurHash": "LyQSF^%L?^W;v$juSdbFs:ayRkj[",
+   "blurHash": "LZRyED?wROskm,t6WWofrqMxozt8",
    "source": "FDA"
   },
   {
@@ -22823,8 +22823,10 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-0916-2026",
    "recallDate": "2026-04-03",
    "lastPublishDate": "2026-06-17",
-   "images": [],
-   "blurHash": null,
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-0916-2026-0.jpg"
+   ],
+   "blurHash": "LqOf+6xu.8xu-;ozWBV@?^WBMxj?",
    "source": "FDA"
   },
   {
@@ -27972,7 +27974,7 @@
    "recallDate": "2026-01-09",
    "lastPublishDate": "2026-07-01",
    "images": [
-    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Launch_20222328-2.jpg?v=1646244401&width=1200"
+    "https://cdn.shopify.com/s/files/1/0246/4917/1010/files/SpringMulberry_Launch_20222328-2.jpg?v=1646244401&width=2000"
    ],
    "blurHash": null,
    "source": "FDA"
