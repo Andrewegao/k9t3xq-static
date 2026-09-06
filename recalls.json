@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-05T12:25:23Z",
+ "generatedAt": "2026-09-06T12:47:01Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -16748,10 +16748,8 @@
    "officialURL": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts?search_api_fulltext=H-1228-2026",
    "recallDate": "2026-05-23",
    "lastPublishDate": "2026-08-19",
-   "images": [
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1228-2026-0.jpg"
-   ],
-   "blurHash": "LdG_67Y%S~#8.5wJniOXtknPfRg2",
+   "images": [],
+   "blurHash": null,
    "source": "FDA"
   },
   {
