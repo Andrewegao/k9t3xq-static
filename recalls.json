@@ -1,7 +1,407 @@
 {
- "generatedAt": "2026-09-10T13:37:51Z",
+ "generatedAt": "2026-09-11T13:31:23Z",
  "source": "CPSC+FDA",
  "recalls": [
+  {
+   "id": "10976",
+   "recallNumber": "26764",
+   "title": "FJTJBSI Six-drawer Dressers",
+   "headline": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+   "brand": "FJTJBSI",
+   "brandColorHex": "B03B4A",
+   "category": "home_kitchen",
+   "productName": "FJTJBSI Six-drawer Dressers",
+   "hazard": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+   "description": "This recall involves the FJTJBSI-branded wood dressers. The black or white dressers measure about 15.1 inches long, 27.6 inches wide and 42.2 inches high, and weigh 68 pounds. The dressers have six drawers with silver or black handles. “LBS-XD-4-2-BLK-023” or “LBS-XD-4-2-WIT-024” is printed on a label on the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact FJTJBSI for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the dresser and send a photo of the marked dresser to FJTJBSIrecall@outlook.com. Consumers should then dispose of the recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 17000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 9,000",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/FJTJBSI-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10976-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10976-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LVECwdt7~qt7M{j[t7fQ?bj[Rjj["
+  },
+  {
+   "id": "10975",
+   "recallNumber": "26752",
+   "title": "Sweet Cubby Children’s Loungewear Sets",
+   "headline": "Sweet Cubby Recalls Children's Loungewear Sets Due to Risk of Serious Injury or Death from Burn Hazard; Violate Mandatory Standard for Children’s Sleepwear",
+   "brand": "Sweet Cubby",
+   "brandColorHex": "B03B4A",
+   "category": "children_baby",
+   "productName": "Sweet Cubby Children’s Loungewear Sets",
+   "hazard": "The recalled children’s loungewear sets violate the mandatory flammability standard for children’s sleepwear, posing a risk of serious burn injuries or death.",
+   "description": "This recall involves all Sweet Cubby children’s loungewear sets. The recalled two-piece loungewear sets consist of a short-sleeved shirt and matching shorts. The sets were sold in various colors and in children’s sizes 5-6Y through 13-14Y. “Batch No.: 272779” and the size are printed on the sewn-in neck label and on the seam label.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled loungewear sets immediately, take them away from children and contact Sweet Cubby for a full refund. Consumers will be asked to destroy the loungewear sets by cutting them in half and send a photo of the destroyed loungewear sets to SweetCubby@163.com. Consumers should then dispose of the destroyed product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 1200,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nSHEIN.com",
+   "units": "About 12,461",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Sweet-Cubby-Recalls-Childrens-Loungewear-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-Hazard-Violate-Mandatory-Standard-for-Childrens-Sleepwear",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10975-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10975-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10975-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LOEx^WNH~UazoLfkofoeIot7Rkj["
+  },
+  {
+   "id": "10974",
+   "recallNumber": "26750",
+   "title": "DHASUWT Hair Dryer and Blow Dryer Brushes",
+   "headline": "Junkins Recalls DHASUWT Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, and Shock Hazards; Violate Federal Regulations; Smoking and Fire Hazards",
+   "brand": "Junkins",
+   "brandColorHex": "B0543B",
+   "category": "tools_hardware",
+   "productName": "DHASUWT Hair Dryer and Blow Dryer Brushes",
+   "hazard": "The recalled hair dryer brushes lack an integrated immersion protection device, which presents a substantial product hazard to consumers, posing the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in to an electrical source. The recalled hair dryer brushes also pose the risk of death or serious injury from smoking and fire hazards.",
+   "description": "This recall involves DHASUWT Hair Dryer and Blow Dryer Brush in 1, Negative Ion Hair Dryer Brush, 1Step Ionic Hair Straightener Brush Hair Dryer Hot Air Brush, Hair Styling Tool Straightening Dryer, with model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a pink design and brush bristles. There are three heat settings on the hair dryers. The top of the product packaging is labeled XRUI with the model name XR-8801.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Junkins to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to DHASUWT_recall@163.com.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 2700,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold At:\nAmazon.com",
+   "units": "About 1,738",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Junkins-Recalls-DHASUWT-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-and-Shock-Hazards-Violate-Federal-Regulations-Smoking-and-Fire-Hazards",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10974-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10974-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10974-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10974-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10974-4.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LFHd]M_2~AE2%0-nx]Ip%MNHM{Rj"
+  },
+  {
+   "id": "10973",
+   "recallNumber": "26766",
+   "title": "Light-Up Children’s Toys",
+   "headline": "ZMC Group Expands Recall of Light-Up Children’s Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+   "brand": "ZMC",
+   "brandColorHex": "B08A3B",
+   "category": "children_baby",
+   "productName": "Light-Up Children’s Toys",
+   "hazard": "The recalled light-up toys violate the mandatory safety standard for children’s toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+   "description": "This recall expansion involves ZMC Group battery-operated light-up toys including a Mexican flag theme foam stick, a Unicorn headband, assorted colors and transparent jelly rings and heart shaped balloon flowers.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the toys immediately, take them away from children and contact ZMC Group for a full refund. Consumers will be asked to remove the batteries, write “RECALLED” or a large “X” on the product with a permanent marker and submit a photo of the disposed product to recallzmctoy@gmail.com.   \n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Sold At:\nDiva at Heart",
+   "units": "About 245,124 (ZMC Group previously recalled 124,560 battery-operated light up toys on May 07, 2026, which are included in the total of 245,124)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/ZMC-Group-Expands-Recall-of-Light-Up-Childrens-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-4.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10973-5.jpg",
+    "https://www.cpsc.gov/s3fs-public/ZMC7.png?VersionId=i_wwYh1MUflfft7.dzesFSaj1NlwqT0H"
+   ],
+   "source": "CPSC",
+   "blurHash": "LJG[vByV$x%L_4xvocob?Z$*XTM{"
+  },
+  {
+   "id": "10972",
+   "recallNumber": "26749",
+   "title": "Victgoal Children’s Bike Helmets",
+   "headline": "Victgoal Recalls Bicycle Helmets Due to Risk of Serious Injury or Death from Head Injury; Violate Mandatory Standard for Bicycle Helmets",
+   "brand": "Victgoal",
+   "brandColorHex": "4A7A3B",
+   "category": "children_baby",
+   "productName": "Victgoal Children’s Bike Helmets",
+   "hazard": "The recalled helmets violate the mandatory safety standard for bicycle helmets because the helmets do not comply with the retention system, positional stability and certification requirements. The helmets can fail to protect the user in the event of a crash, posing a serious risk of injury or death due to head injury.",
+   "description": "This recall involves Victgoal-branded bicycle helmets. The red helmets were sold in size small (S), fitting a head circumference of about 19.68 to 21.25 inches. The helmets have red padding, black straps with a silver reflective pattern in the center, a black and red buckle and a black fit-adjusting knob at the back. Only helmets manufactured in November 2025 are included in this recall. “Model HT-006,” “Production: 2025/11” and “Ref/Lot# 2025A1101” are printed on a label on the inside of the helmet. “Victgoal” is printed on the product packing bag.",
+   "remedyType": "contact",
+   "remedyDetail": "Refund",
+   "remedyOptions": [],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nWalmart.com",
+   "units": "About 40",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Victgoal-Recalls-Bicycle-Helmets-Due-to-Risk-of-Serious-Injury-or-Death-from-Head-Injury-Violate-Mandatory-Standard-for-Bicycle-Helmets",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10972-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10972-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10972-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10972-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LTL|$G$%?^b__NbbM{o2.TW;Mdsm"
+  },
+  {
+   "id": "10971",
+   "recallNumber": "26756",
+   "title": "Dual Fuel Ranges",
+   "headline": "Dual Fuel Ranges Recalled Due to Risk of Serious Injury or Death from Fire or Explosion Hazards; Manufactured by AGA Rangemaster",
+   "brand": "AGA Rangemaster",
+   "brandColorHex": "3B7AB0",
+   "category": "other",
+   "productName": "Dual Fuel Ranges",
+   "hazard": "Dual Fuel Ranges with a missing cap from the gas test port can cause a gas leak,​ posing a risk of serious injury or death from fire or explosion hazards.",
+   "description": "This recall involves freestanding AGA Elise and Mercury Series Dual Fuel Ranges, in 36- and 48-inch widths and freestanding La Cornue CornuFé Series Dual Fuel Ranges in 36- and 43-inch widths manufactured between March 19, 2025 and July 24, 2026. All units have gas surface burners, set for Natural or LP gas, with one to three electric ovens depending on size.  The products are sold in stainless steel, white and 13 other colors, which can be found at www.agarangeusa.com and www.lacornueusa.com. All colors, trim options and gas types (Natural or LP) are included.  The serial number is on the rating plate, which is located on the bottom panel of the unit under the storage drawer.",
+   "remedyType": "repair",
+   "remedyDetail": "Repair",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Authorized appliance",
+   "units": "About 3,992 (In addition, about 336 were sold in Canada)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Dual-Fuel-Ranges-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-or-Explosion-Hazards-Manufactured-by-AGA-Rangemaster",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-4.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10971-5.jpg",
+    "https://www.cpsc.gov/s3fs-public/dual7.png?VersionId=QfKdQXxONHq_oV359BLMFvG5nccHG2bk"
+   ],
+   "source": "CPSC",
+   "blurHash": "LKPjMnD$~XRiD%MxxuM{IWRkt6j["
+  },
+  {
+   "id": "10970",
+   "recallNumber": "26754",
+   "title": "Wantefully Hair Dryer Brushes",
+   "headline": "Guang Zhou Recalls Wantefully Hair Dryer Brushes Due to Risk of Serious Injury or Death from Electrocution, Shock and Burn Hazards; Violate Federal Regulations",
+   "brand": "Wantefully",
+   "brandColorHex": "A03B6E",
+   "category": "other",
+   "productName": "Wantefully Hair Dryer Brushes",
+   "hazard": "The recalled hair dryer brushes are in violation of federal regulations for hair dryers as they lack an integrated immersion protection device, which presents a substantial product hazard to consumers and the risk of death or serious injury from electrocution or shock if the hair dryers fall into water while plugged in. In addition, the recalled hair dryer brushes can overheat, posing a burn hazard.",
+   "description": "This recall involves Wantefully 2 in 1 Hair Dryer & Styler, One Step Hair Dryer Brush Straightner, and the Negative Ion Electric Hot Air Blow Dryer Comb, model number XR-8801. The hair dryers are black hot air dryer paddle brushes with a striped pink design and brush bristles. There are three heat settings on the hair dryers. XRUI and the model name XR-8801 are printed on the top of the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should unplug and stop using the recalled hair dryers immediately and contact Guang Zhou to receive a full refund. Consumers will be asked to cut the power cord and provide a photo of the destroyed product to wantefully@163.com.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 3000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 2,295",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Guang-Zhou-Recalls-Wantefully-Hair-Dryer-Brushes-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Shock-and-Burn-Hazards-Violate-Federal-Regulations",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-4.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LRIX,H-T4T?GD%?b?bxukDM|%goz"
+  },
+  {
+   "id": "10969",
+   "recallNumber": "26763",
+   "title": "Triumph Motorcycles Recalls Closed Course Competition Motorc",
+   "headline": "Triumph Motorcycles Recalls Closed Course Competition Motorcycles Due to Risk of Serious Injury or Death from Crash Hazard",
+   "brand": "Triumph Motorcycles America",
+   "brandColorHex": "7A5A3B",
+   "category": "vehicles_gear",
+   "productName": "Triumph Motorcycles Recalls Closed Course Competition Motorc",
+   "hazard": "The engine rocker arm on the recalled motorcycles can seize or stick and the exhaust valves can remain open or break, posing a risk of serious injury or death from a crash hazard.",
+   "description": "This recall involves 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles. The motorcycles have a Jet Black/Pure White color scheme. Affected models are TF450-C, TF450-E, TF450-X and TF450RC Edition. The range of affected Vehicle Identification Numbers (VIN) is XXXXXXXXXXXCD4981 to and including XXXXXXXXXXXCP1597. The VIN is located on the vehicle identification plate on the left side of the steering head. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers should stop using 2025 and 2026 Triumph TF450 models Closed Course Competition Motorcycles immediately and contact Triumph Motorcycles for a free repair. Consumers can check if their VIN is included in this recall at https://www.triumphmotorcycles.com/owners/recalls. Consumers with recalled motorcycles should contact their local authorized Triumph Motorcycle dealer who will inspect the engine and replace the cylinder head free of charge.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Sold At:\nAuthorized Triumph Motorcycle",
+   "units": "About 1,560 (In addition, about 171 were sold in Canada)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Triumph-Motorcycles-Recalls-Closed-Course-Competition-Motorcycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10969-0.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LKD07Rxa%MIp_NR*xuRjNHM{xtoI"
+  },
+  {
+   "id": "10968",
+   "recallNumber": "26753",
+   "title": "Lontcs Busy Board",
+   "headline": "SQT Recalls Lontcs Busy Boards Due to Risk of Serious Injury from Lead Poisoning; Violate Federal Lead Paint Ban",
+   "brand": "SQT",
+   "brandColorHex": "5A7AB0",
+   "category": "children_baby",
+   "productName": "Lontcs Busy Board",
+   "hazard": "The toys’ zipper contains levels of lead that exceed the standard set in the federal lead paint ban. Lead is toxic if ingested by young children and can cause adverse health issues.",
+   "description": "This recall involves the Lontcs Busy Board toys. The toys consist of a wood board and metal handle with multiple attached components including a black plastic buckle with cream colored straps; a brown zipper; a metal latch; a caster wheel; a white doorbell; a lock with keys; a music box with crank; a zig zag duck puzzle; an abacus with three rows of white; red and tan beads; and a white fidget spinner.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the busy boards immediately and contact SQT for a full refund. Consumers will be asked to destroy the toys by unscrewing its components, write in permanent marker “RECALLED” on the board, and send a photo of the destroyed toy to Lontcs@163.com. Consumers should then dispose of the destroyed product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 3100,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 1,835",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/SQT-Recalls-Lontcs-Busy-Boards-Due-to-Risk-of-Serious-Injury-from-Lead-Poisoning-Violate-Federal-Lead-Paint-Ban",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10968-0.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LJK^pPxt5T%10MbIr=ae0Nt6%2Rk"
+  },
+  {
+   "id": "10967",
+   "recallNumber": "26761",
+   "title": "Cade California Electronic Projecting Finger Light Toys",
+   "headline": "Cade California Electronic Recalls Finger Light Toys Due to Risk of Serious Injury or Death from Battery Ingestion; Violate Mandatory Standard for Toys",
+   "brand": "California Cade Electronic",
+   "brandColorHex": "2E6F5E",
+   "category": "children_baby",
+   "productName": "Cade California Electronic Projecting Finger Light Toys",
+   "hazard": "The recalled finger lights violate the mandatory safety standard for toys because the toys contain button cell batteries that can be easily accessed by children. If button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, including internal chemical burns, and death.",
+   "description": "This recall involves California Cade Electronic Finger Lights which contain three button cells batteries. The finger lights come in 50 pieces in a box in white, blue, red and green. The finger lights have “California Cade Electronic” and “Finger Flashlights” printed on labels located on the front of the package.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled toys immediately, take them away from children and contact Cade California Electronic for a full refund. Consumers will be asked to properly dispose of the finger lights into the trash and send a photo of the disposed product to ccecamazonservice@gmail.com.  \n\nNote: Button cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 1600,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "California Cade Electronic",
+   "units": "About 179,739",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Cade-California-Electronic-Recalls-Finger-Light-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violate-Mandatory-Standard-for-Toys",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10967-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10967-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10967-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LLKBUJ~U?E%N~poxNHRP?FNHNfVr"
+  },
+  {
+   "id": "10966",
+   "recallNumber": "26755",
+   "title": "Hero Fire Spray Canisters",
+   "headline": "Prepared Hero Recalls Fire Spray Canisters Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+   "brand": "Prepared Hero",
+   "brandColorHex": "6E54B0",
+   "category": "other",
+   "productName": "Hero Fire Spray Canisters",
+   "hazard": "The recalled fire spray canister can deteriorate overtime, causing it to rupture and fail to operate during a fire, posing the risk of serious injury or death from fire and burn hazards.",
+   "description": "This recall involves the Hero Fire Spray Fire Canisters. The canisters are either red and blue or red and have the company's logo on them with the name HERO Fire Spray on the front panel of the spray. Each canister contains 20 fluid ounces. The circular canisters are about 2.6 inches in diameter and 11.4 inches tall and weigh about 1.8 pounds. There is a black plastic release tab on the top of the canister. The affected batch is clearly marked on the base of the canister with the numbers \"09/2024\" as the date code.",
+   "remedyType": "replace",
+   "remedyDetail": "Consumers should stop using the fire spray canisters immediately and visit  www.preparedhero.com/pages/recall for instructions on how to receive a free replacement unit and how to properly dispose of the recalled fire spray canister according to local and state regulations. Consumers will be asked to place their fire spray canister in a box, label the box “RECALLED”, and bring it to a municipal household hazardous waste (HHW) collection center to receive a free replacement.  \n\nNote: Do not throw the recalled fire spray canister in the trash or the general recycling stream (e.g., street-level or curbside recycling bins). Recalled fire spray canisters must be disposed of differently than other products, because they are pressurized. Your municipal household hazardous waste (HHW) collection center may accept this recalled fire spray canister for disposal. Before taking your fire spray canister to a HHW collection center, contact that office ahead of time and ask whether it accepts pressurized canisters. If it does not, contact your municipality for further guidance.",
+   "remedyOptions": [
+    "replace"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nPreparedHero.com",
+   "units": "About 31,000",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Prepared-Hero-Recalls-Fire-Spray-Canisters-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10966-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10966-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LPL;EZ_3OAt+4m%gs:xC%gS1sCeU"
+  },
+  {
+   "id": "10965",
+   "recallNumber": "26748",
+   "title": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+   "headline": "Ricky Joy Recalls More Than 2.3 Million Sour Crush Candy Bottles Due to Risk of Serious Injury or Death from Choking Hazard",
+   "brand": "Ricky Joy",
+   "brandColorHex": "B07A3B",
+   "category": "other",
+   "productName": "Ricky Joy Sour Crush Rolling Liquid Candy Bottles",
+   "hazard": "The rolling ball on the recalled candy bottles can detach, posing a risk of serious injury or death from choking hazard.",
+   "description": "This recall involves Ricky Joy-branded Sour Crush Rolling Liquid Candy bottles. The bottles contain 1.85 fluid ounce of sour liquid candy intended to be applied through the bottle’s rollerball top. The plastic candy bottles were sold individually and in packs of three or 12 bottles per pack, and in the following colors/flavors: blue (blue raspberry), red (strawberry), green (green apple) and pink (watermelon). The Ricky Joy logo, “EXTREME SOUR, “SOUR CRUSH” and the flavor name are printed on the front of the bottle along with the image of a green monster.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the candy bottles immediately, take them away from children and contact The Ricky Joy Company for a refund. Consumers will be provided with a pre-paid shipping label to return the recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 3200,
+   "noReceiptNeeded": true,
+   "claimEase": 1,
+   "recognizability": 2,
+   "retailer": "H-E-B",
+   "units": "About 2.3 million",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Ricky-Joy-Recalls-More-Than-2-3-Million-Sour-Crush-Candy-Bottles-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+   "recallDate": "2026-09-10",
+   "lastPublishDate": "2026-09-10",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10965-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10965-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LTNwND$mt2=w%Mj[jZof~Xwzsjrs"
+  },
   {
    "id": "10950",
    "recallNumber": "26737",
@@ -22,9 +422,9 @@
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold At:\nVarious third-party",
    "units": "About 7,200",
-   "officialURL": "https://cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/OKK-Trading-Recalls-Rainbow-Mystery-Squishy-Bun-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Water-Bead-Ingestion-Violate-Mandatory-Standard-for-Toys",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -51,13 +451,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 5000,
    "noReceiptNeeded": true,
    "claimEase": 1,
    "recognizability": 2,
    "retailer": "Fangzhou Overseas Consulting Shenzhen Co",
    "units": "About 2,200",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -85,13 +485,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 21800,
    "noReceiptNeeded": true,
    "claimEase": 3,
-   "recognizability": 0,
-   "retailer": null,
+   "recognizability": 2,
+   "retailer": "Sold At:\nSpecialty",
    "units": "About 714",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Audio-Partnership-Recalls-Cambridge-Audio-Yoyo-M-Portable-Bluetooth-Speakers-Due-to-Fire-Hazard",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -119,13 +519,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 90000,
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold At:\nThrough direct sales",
    "units": "About 4,633 (In addition, about 126 were sold in Canada)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Daikin-Comfort-Technologies-Manufacturing-Recalls-Amana-Through-The-Wall-Air-Conditioners-and-Heat-Pumps-Due-to-Risk-of-Serious-Injury-from-Fire",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -156,9 +556,9 @@
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold At:\nEvolucion Innovations",
    "units": "About 177 (In addition, about 52 were sold in Canada)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/MONDRAKER-USA-Recalls-Mountain-Bicycles-Equipped-with-ONOFF-S9-Carbon-MTB-Handlebars-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -199,13 +599,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 2000,
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 2,
    "retailer": "Xiamen Liuhui Electric Technology Co",
    "units": "About 8,000",
-   "officialURL": "https://cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -234,10 +634,10 @@
    "moneyCents": null,
    "noReceiptNeeded": true,
    "claimEase": 2,
-   "recognizability": 0,
-   "retailer": null,
+   "recognizability": 2,
+   "retailer": "Sold At:\nOnline at BranchFurniture.com",
    "units": "About 16,000 (In addition, about 180 were sold in Canada)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Branch-Recalls-Ergonomic-Chairs-Due-to-Fall-Hazard",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -265,13 +665,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 1200,
    "noReceiptNeeded": true,
    "claimEase": 2,
-   "recognizability": 0,
-   "retailer": null,
+   "recognizability": 2,
+   "retailer": "Sold At:\nCarter’s retail",
    "units": "About 22,660 (In addition, about 3,177 were sold in Canada)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Skip-Hop-Recalls-Baby-Sesame-Street-Elmo-Silicone-Teethers-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -296,13 +696,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 17100,
    "noReceiptNeeded": true,
    "claimEase": 3,
-   "recognizability": 0,
+   "recognizability": 2,
    "retailer": "Airiva LLC",
    "units": "About 4,396",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -328,13 +728,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 24000,
    "noReceiptNeeded": true,
    "claimEase": 2,
-   "recognizability": 0,
+   "recognizability": 2,
    "retailer": "Nanjing Wu Hai Smart Home Appliance",
    "units": "About 261",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -361,13 +761,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 800,
    "noReceiptNeeded": false,
    "claimEase": 2,
-   "recognizability": 0,
-   "retailer": null,
+   "recognizability": 2,
+   "retailer": "Sold At:\nWalmart",
    "units": "About 6.3 million",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Clorox-Puerto-Rico-Recalls-6-Million-Scented-Mistolin-and-Lestoil-Multi-Purpose-Cleaners-Due-to-Risk-of-Exposure-to-Bacteria",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -394,13 +794,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 1500,
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 2,
-   "retailer": null,
+   "retailer": "Sold At:\nTJX",
    "units": "About 32,400",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Truststone-Group-Recalls-XO-Poppy-Power-Trip-Magnetic-Wireless-Power-Banks-Due-to-Fire-and-Burn-Hazards-Sold-Exclusively-at-TJX-and-Marshalls-Stores",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -427,13 +827,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 1600,
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 2,
-   "retailer": null,
+   "retailer": "Sold Online At:\nSHEIN.com",
    "units": "About 963",
-   "officialURL": "https://cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/SHEIN-Distribution-Corporation-Recalls-Spiral-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Hazard-Violate-Small-Ball-Ban",
    "recallDate": "2026-09-03",
    "lastPublishDate": "2026-09-03",
    "images": [
@@ -461,13 +861,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 1300,
    "noReceiptNeeded": true,
    "claimEase": 3,
-   "recognizability": 0,
-   "retailer": null,
+   "recognizability": 2,
+   "retailer": "Sold At:\nSpecialty",
    "units": "About 2,000",
-   "officialURL": "https://cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/HABA-USA-Recalls-Rainbow-Rattle-Grasping-and-Teething-Toys-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-and-Ingestion-Hazards?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -492,20 +892,23 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 2700,
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": null,
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 20,134",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Montessori-Baby-Toy-Sets-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Choking-Violate-Mandatory-Standard-for-Toys-Sold-on-Amazon-by-Chillife-Official?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10963-0.jpg"
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10963-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10963-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10963-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10963-3.jpg"
    ],
    "source": "CPSC",
-   "blurHash": "LjJH:et8~qj[?aofogf8-;kBRjjZ"
+   "blurHash": "LFPPow~Aoj_LTMRjss%JVZEJK%$l"
   },
   {
    "id": "10962",
@@ -523,13 +926,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 7000,
    "noReceiptNeeded": true,
    "claimEase": 3,
-   "recognizability": 0,
+   "recognizability": 2,
    "retailer": "FENUN",
    "units": "About 243",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -557,13 +960,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 22500,
    "noReceiptNeeded": true,
    "claimEase": 3,
-   "recognizability": 0,
+   "recognizability": 2,
    "retailer": "MD Wipe Outz",
    "units": "About 55,250",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -589,13 +992,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 8000,
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
    "retailer": "Walmart Inc",
    "units": "About 165,250 (About 165,000 of these dressers were previously recalled in May 2026)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -603,7 +1006,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10957-1.jpg"
    ],
    "source": "CPSC",
-   "blurHash": "LEKd[5-;IoWU_NV[ayofD%NGRixu"
+   "blurHash": "LhJ[I,WB~qxuWBt7ofRj~qayM{of"
   },
   {
    "id": "10956",
@@ -621,13 +1024,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 9200,
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": null,
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 128",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Steelite-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-Longer-3D",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Steelite-Pressure-Washers-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-Longer-3D",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -656,9 +1059,9 @@
    "noReceiptNeeded": true,
    "claimEase": 1,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold At:\nIndependent stereo",
    "units": "About 90",
-   "officialURL": "https://cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/AudioLineOut-Recalls-Studio-Six-Headphone-Amplifiers-Due-to-Risk-of-Serious-Injury-or-Death-from-Electrocution-Hazard",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -686,13 +1089,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 12000,
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": null,
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "300",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Pressure-Washers-Recalled-Due-to-Serious-Risk-of-Injury-or-Death-from-Shock-and-Electrocution-Hazards-Sold-on-Amazon-by-YERYORK",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -717,13 +1120,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 2000,
    "noReceiptNeeded": true,
    "claimEase": 2,
-   "recognizability": 2,
-   "retailer": null,
+   "recognizability": 3,
+   "retailer": "Sold At:\nWalmart",
    "units": "About 1,905,805 additional brushes (Conair previously recalled 1,719,995 grill brushes in July 2026 for a total of 3,625,800)",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Conair-Expands-Recall-of-Cuisinart-Grill-Brushes-Due-to-Ingestion-Hazard-Over-3-6-Million-Brushes-Now-Recalled",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -768,13 +1171,13 @@
    "remedyOptions": [
     "refund"
    ],
-   "moneyCents": null,
+   "moneyCents": 33000,
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold At:\nHustler",
    "units": "About 1,800",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Excel-Industries-Recalls-Accessory-LED-Light-Kits-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Excel-Industries-Recalls-Accessory-LED-Light-Kits-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
@@ -782,7 +1185,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10952-1.jpg"
    ],
    "source": "CPSC",
-   "blurHash": "LGD+0q-A0}R*.RIoQ.nOGtI:wJtQ"
+   "blurHash": "L5E39i-:9Hxu%jR.V?R+02IV%LWB"
   },
   {
    "id": "10951",
@@ -801,13 +1204,13 @@
     "refund",
     "repair"
    ],
-   "moneyCents": null,
+   "moneyCents": 3000,
    "noReceiptNeeded": false,
    "claimEase": 1,
    "recognizability": 0,
-   "retailer": null,
+   "retailer": "Sold Online At:\nLittlelovesandco.com",
    "units": "About 590",
-   "officialURL": "https://cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard",
+   "officialURL": "https://www.cpsc.gov/Recalls/2026/Little-Loves-Co-Recalls-Youth-Clothing-with-Drawstrings-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Hazard",
    "recallDate": "2026-08-27",
    "lastPublishDate": "2026-08-27",
    "images": [
