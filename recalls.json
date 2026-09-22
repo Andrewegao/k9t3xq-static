@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-09-21T15:55:18Z",
+ "generatedAt": "2026-09-22T14:10:15Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -11,7 +11,7 @@
    "brandColorHex": "3B6FB0",
    "category": "home_kitchen",
    "productName": "400,000 BTU Universal-HC Series Pool Heaters",
-   "hazard": "During operation the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
+   "hazard": "During operation, the heaters can produce high levels of carbon monoxide (CO), posing a risk of serious injury or death from carbon monoxide poisoning.",
    "description": "This recall involves Hayward-branded HDFS400 Universal-HC Series pool heaters. The 400,000 BTU dual-fuel gas heaters are brown with black atop and measure 21 inches long, 28 inches wide and 31 inches high. The pool heaters have a digital display control panel at the top and a molded base with integrated tie-down connections. The heater's name plate is below the vent with the word \"Hayward\" appearing at the bottom of the name plate and the model number \"HDFS400\" appears at the top of the name plate.",
    "remedyType": "repair",
    "remedyDetail": "Consumers should stop using the pool heater immediately and contact Hayward Industries to schedule a free in-home inspection and repair by a qualified technician.",
@@ -417,7 +417,7 @@
    "category": "other",
    "productName": "JKMAX Heated Blankets and Heating Pads",
    "hazard": "The internal wire heating elements of the blankets and pads can overheat, posing fire and burn hazards to consumers.",
-   "description": "This recall involves all heating pads and heated blankets sold by JKMax including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name “JKMAX”.",
+   "description": "This recall involves all heating pads and heated blankets sold by JKMax, including models JKMAX-002, JKMAX-7284B, JKMAX-6284B, JKMAX-10090B, JKMAX-8490B and JKMAX-6284B. The heated blankets and heating pads are blue, gray, brown or red. They are made of polyester fabric and are machine washable. The blankets and pads were sold in multiple sizes, and both have a detachable white remote that can be used to adjust the heat. The model number is located on the back of the remote and is also printed on a white label affixed to the product packaging along with the brand name \"JKMAX\".",
    "remedyType": "refund",
    "remedyDetail": "Consumers should stop using the recalled blankets and pads immediately and contact JKMax for a full refund.",
    "remedyOptions": [
@@ -932,7 +932,7 @@
    "noReceiptNeeded": true,
    "claimEase": 1,
    "recognizability": 2,
-   "retailer": "Fangzhou Overseas Consulting Shenzhen Co",
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 2,200",
    "officialURL": "https://cpsc.gov/Recalls/2026/Adult-Portable-Bed-Rails-Recalled-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails-Sold-on-Amazon-by-Loyoda-Direct-and-Loyoda",
    "recallDate": "2026-09-03",
@@ -1080,7 +1080,7 @@
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 2,
-   "retailer": "Xiamen Liuhui Electric Technology Co",
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 8,000",
    "officialURL": "https://cpsc.gov/Recalls/2026/GIHNJSI-Squeezy-Dumplings-Toys-Recalled-Due-to-Serious-Ingestion-Choking-and-Obstruction-Hazards-Sold-on-Amazon-by-Chenyuanhui",
    "recallDate": "2026-09-03",
@@ -1177,7 +1177,7 @@
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": "Airiva LLC",
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 4,396",
    "officialURL": "https://cpsc.gov/Recalls/2026/Gizoon-Direct-Recalls-Six-Drawer-Double-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violates-Mandatory-Standard-for-Clothing-Storage-Units",
    "recallDate": "2026-09-03",
@@ -1209,7 +1209,7 @@
    "noReceiptNeeded": true,
    "claimEase": 2,
    "recognizability": 2,
-   "retailer": "Nanjing Wu Hai Smart Home Appliance",
+   "retailer": "Sold Online At:\nWayfair.com",
    "units": "About 261",
    "officialURL": "https://cpsc.gov/Recalls/2026/Nanjing-Wu-Hai-Smart-Home-Appliance-Store-Recalls-Alanca-6-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
    "recallDate": "2026-09-03",
@@ -1434,7 +1434,7 @@
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": "FENUN",
+   "retailer": "Sold Online At:\nTarget.com in June 2026 for",
    "units": "About 243",
    "officialURL": "https://cpsc.gov/Recalls/2026/Kmaier-Recalls-Infant-Walkers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fall-Hazard-Violate-Mandatory-Standard-for-Infant-Walkers",
    "recallDate": "2026-08-27",
@@ -1468,7 +1468,7 @@
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": "MD Wipe Outz",
+   "retailer": "Sold Online At:\nAmazon.com",
    "units": "About 55,250",
    "officialURL": "https://cpsc.gov/Recalls/2026/Diamond-Wipes-International-Recalls-MD-Wipe-Outz-Numbing-Tattoo-Wipes-Due-to-Risk-of-Serious-Injury-or-Death-from-Child-Poisoning-Violate-Mandatory-Standard-for-Child-Resistant-Packaging?utm_campaign=&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=20260827",
    "recallDate": "2026-08-27",
@@ -1500,7 +1500,7 @@
    "noReceiptNeeded": true,
    "claimEase": 3,
    "recognizability": 2,
-   "retailer": "Walmart Inc",
+   "retailer": "Sold At:\nWalmart",
    "units": "About 165,250 (About 165,000 of these dressers were previously recalled in May 2026)",
    "officialURL": "https://cpsc.gov/Recalls/2026/Walmart-Reannounces-Recall-of-Mainstays-Nine-Drawer-Fabric-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Walmart-Distributed-Recalled-Dressers-Post-Recall-Sold-to-Consumers-Through-Liquidators",
    "recallDate": "2026-08-27",
@@ -2240,7 +2240,7 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/FDA-H-1266-2026-0.jpg"
    ],
-   "blurHash": null,
+   "blurHash": "L47dtED*D?RP.4WCRVax0et6r?oy",
    "source": "FDA"
   },
   {
