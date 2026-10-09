@@ -1,7 +1,268 @@
 {
- "generatedAt": "2026-10-08T16:25:38Z",
+ "generatedAt": "2026-10-09T16:07:24Z",
  "source": "CPSC+FDA",
  "recalls": [
+  {
+   "id": "11021",
+   "recallNumber": "27015",
+   "title": "LED-light bike lock keys",
+   "headline": "Giant Bicycle Recalls LED-Light Keys Included with SureLock Bike Lock Sets Due to Risk of Serious Injury or Death from Battery Ingestion; Violates Mandatory Standard for Consumer Products with Button Cell Batteries",
+   "brand": "Giant Bicycle",
+   "brandColorHex": "3BA088",
+   "category": "home_kitchen",
+   "productName": "LED-light bike lock keys",
+   "hazard": "The LED-light key that was included with certain SureLock Bicycle Lock sets violates the mandatory safety standard for consumer products with button cell and coin batteries because the button batteries can be accessed easily by children, posing an ingestion hazard. Additionally, the packaging and product do not have the warnings required under Reese’s Law. When button cell or coin batteries are swallowed, the ingested batteries can cause serious injuries, internal chemical burns, and death.",
+   "description": "This recall involves Giant Bicycle-branded black-and-white LED-light bike lock keys that were included as part of a pre-keyed SureLock bicycle lock set that includes a bike lock and two-or-four keys without an LED-light (depending on the model). Only LED-light bike lock keys manufactured after March 2023 are included in this recall. The list of affected serial numbers is included in the table below. Serial numbers are located on the underside of the bike lock, as shown in the below picture.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled LED-light key that was included with certain SureLock Bicycle Lock sets immediately and contact Giant Bicycle for a $5 refund. Consumers will be asked to bring the LED key to an authorized Giant retailer to participate in the recall and receive the refund. When returning the LED-light key to a retailer, consumers will be required to bring either the complete bicycle lock purchase or a picture of the serial number on the bicycle lock in order to verify the serial number is in the scope of the recall. Consumers may continue to use the bicycle lock and non-LED-light keys included with the SureLock Bicycle Lock sets.  \n\n\nNote: Button and Coin cell batteries are hazardous. Batteries should be disposed of or recycled by following local hazardous waste procedures.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 6500,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Sold At:\nGiant Bicycle authorized",
+   "units": "About 3,630 (In addition, 1,395 in Canada)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/Giant-Bicycle-Recalls-LED-Light-Keys-Included-with-SureLock-Bike-Lock-Sets-Due-to-Risk-of-Serious-Injury-or-Death-from-Battery-Ingestion-Violates-Mandatory-Standard-for-Consumer-Products-with-Button-Cell-Batteries",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11021-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11021-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11021-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LSIXyz-oRPn}.TofjEj?$yocWBWC"
+  },
+  {
+   "id": "11020",
+   "recallNumber": "27017",
+   "title": "Van Rysel GRVL AF Bicycles",
+   "headline": "Decathlon America Recalls Van Rysel GRVL AF Bicycles Due to Risk of Serious Injury or Death from Crash Hazard",
+   "brand": "Decathlon America",
+   "brandColorHex": "3B5A7A",
+   "category": "sports_outdoors",
+   "productName": "Van Rysel GRVL AF Bicycles",
+   "hazard": "The recalled bicycles’ front lock nut can loosen during use, causing the front wheel to dislodge or loosen over time, posing a crash hazard.",
+   "description": "This recall involves adult multi-terrain gravel bicycles Van Rysel GRVL AF Sword Brown CN FR (model number 8911304), Van Rysel GRVL AF Apex Beige CN FR (model number 8911305), Van Rysel GRVL AF Sword Pink CN FR (model number 8911308), and Van Rysel GRVL AF GRX Black (model number 8929130). The recalled models were sold in sizes x-small, small, medium, large and x-large. The bicycles are designed for off-road gravel riding, road cycling, commuting and bikepacking. Each bicycle can be identified by the model name and Van Rysel Product ID located on the barcode sticker on the frame near the bottom bracket. Only Van Rysel bicycles with the following Product IDs/ SKUs are included in this recall.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers should stop using the recalled bicycles immediately and take them to the nearest Recreational Equipment (REI Co-op) location for a free inspection and repair service of the front fork assembly. Anyone unable to visit an REI Co-op location can contact Decathlon Customer Service directly for assistance. Recalled models can be identified by the Van Rysel Product ID on the top right of the product label under the frame, beginning with the number 5.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold At:\nREI Co-op",
+   "units": "About 1,150",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/Decathlon-America-Recalls-Van-Rysel-GRVL-AF-Bicycles-Due-to-Risk-of-Serious-Injury-or-Death-from-Crash-Hazard",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11020-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11020-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11020-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11020-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11020-4.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LMODnI%Mt7%M~qxu%MM{_3t7jsWB"
+  },
+  {
+   "id": "11019",
+   "recallNumber": "27022",
+   "title": "Avengers Infinity Gauntlet Medals",
+   "headline": "The Conqueror Recalls Avengers Medals Due to Risk of Serious Injury or Death from Magnet Ingestion; Violate Mandatory Standard for Magnets",
+   "brand": "Sold Online At: www.theconqueror.events and through The Conqueror App from March 2026 through May 2026 for about $50",
+   "brandColorHex": "A03B6E",
+   "category": "other",
+   "productName": "Avengers Infinity Gauntlet Medals",
+   "hazard": "The recalled medals violate the mandatory safety standard for magnets because the high-powered magnets may detach, posing a deadly ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
+   "description": "This recall involves the Avengers Infinity Gauntlet medal. The medal is gold, with colorful gems on the front and comes in a black package marked “Marvel Avengers” with Marvel Avengers artwork. The medals are part of the Avengers virtual challenge series. To receive the medal, customers must have completed the Infinity Gauntlet virtual challenge on the Conqueror App.",
+   "remedyType": "refund_or_replace",
+   "remedyDetail": "Consumers should stop using the Avengers Infinity Gauntlet Medal immediately and contact The Conqueror for instructions on receiving a full refund or a replacement medal. Consumers will be asked to cut the ribbon from the medal and write “RECALLED” in permanent marker on the medal and ribbon, throw the product away and email a photo of the disposed medal and ribbon to support@theconqueror.events.",
+   "remedyOptions": [
+    "refund",
+    "replace"
+   ],
+   "moneyCents": 5000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 0,
+   "retailer": "Sold Online At:\nwww.theconqueror.events",
+   "units": "About 476",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/The-Conqueror-Recalls-Avengers-Medals-Due-to-Risk-of-Serious-Injury-or-Death-from-Magnet-Ingestion-Violate-Mandatory-Standard-for-Magnets",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11019-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11019-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LMHUn8?H~WtR-nIV%1ayWsRjxW%0"
+  },
+  {
+   "id": "11018",
+   "recallNumber": "27016",
+   "title": "DR Power Equipment Pilot and Premier Trimmer Mowers",
+   "headline": "DR Power Equipment Recalls Pilot and Premier Trimmer Mowers Due to Risk of Serious Injury or Death from Fire and Burn Hazards",
+   "brand": "Generac Power Systems",
+   "brandColorHex": "A03B6E",
+   "category": "other",
+   "productName": "DR Power Equipment Pilot and Premier Trimmer Mowers",
+   "hazard": "Grass and debris can accumulate in the trimmer mowers and ignite, posing a risk of serious injury or death from fire and burn hazards.",
+   "description": "This recall involves DR Power Equipment Pilot and Premier walk-behind trimmer mowers. The trimmer mowers are orange and black and have the DR Power logo on the top of the motor and on the top of the frame above the cutter head. The trimmer mowers are labeled “Premier” or “Pro” on the side of the frame. The model numbers are printed on a label located on the side of the product’s frame.",
+   "remedyType": "repair",
+   "remedyDetail": "Consumers should stop using the recalled trimmer mowers immediately and contact DR Power Equipment for a free repair kit. If consumers have concerns about installing the repair kit, contact DR Power Equipment to schedule a free repair installation from an authorized dealer.",
+   "remedyOptions": [
+    "repair"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Sold At:\nAce",
+   "units": "About 42,860 (In addition, about 340 were sold in Canada)",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/DR-Power-Equipment-Recalls-Pilot-and-Premier-Trimmer-Mowers-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-and-Burn-Hazards",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11018-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11018-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LgQS}6%2_3tR~qx]D%aKxuWBIUs:"
+  },
+  {
+   "id": "11017",
+   "recallNumber": "27021",
+   "title": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks",
+   "headline": "Snow Peak Recalls Propane Fireplace Inserts and Lava Rocks Due to Risk of Serious Injury or Death from Burn and Fire Hazards",
+   "brand": "Snow Peak USA",
+   "brandColorHex": "B03B4A",
+   "category": "other",
+   "productName": "Snow Peak Takibi Fireplace Propane Inserts and Lava Rocks",
+   "hazard": "The fireplace’s lava rocks can ignite and explode when heated in the propane insert, posing a risk of serious injury or death from burn and fire hazards.",
+   "description": "This recall involves the Takibi propane inserts and lava rocks, fireplace accessories that allows Snow Peak’s Pack & Carry Fireplace L (ST-032) and XL (ST-034) to operate on propane fuel instead of wood or charcoal. The propane insert includes a detachable hose with a gas flow regulator that controls the intensity of the flame with the twist of a knob. The product also includes lava rocks. Model number ST-332-US can be found on the product packaging and in the user manual.",
+   "remedyType": "refund_or_replace",
+   "remedyDetail": "Consumers should stop using the propane insert and lava rocks fireplace accessories immediately and contact Snow Peak for a full refund. Consumers will be provided with a prepaid shipping label to return the propane insert and lava rocks. For replacement lava rocks only, the consumer can keep the propane inserts, and the firm will ship replacement lava rocks to the consumer. Do not use inserts until replacement lava rocks are received. Consumers should dispose of the recalled lava rocks in accordance with any local and state ordinances.",
+   "remedyOptions": [
+    "refund",
+    "replace"
+   ],
+   "moneyCents": 35000,
+   "noReceiptNeeded": true,
+   "claimEase": 1,
+   "recognizability": 0,
+   "retailer": "Sold Online At:\nSnowpeak.com",
+   "units": "About 100",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/Snow-Peak-Recalls-Propane-Fireplace-Inserts-and-Lava-Rocks-Due-to-Risk-of-Serious-Injury-or-Death-from-Burn-and-Fire-Hazards",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11017-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11017-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11017-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LcQ0N[-;_Nn$Mxxu%NRj~qofIUWV"
+  },
+  {
+   "id": "11016",
+   "recallNumber": "27020",
+   "title": "Romorgniz Six-Drawer Dressers",
+   "headline": "Romorgniz Recalls Six-Drawer Dressers Due to Risk of Serious Injury or Death from Tip-Over and Entrapment Hazards; Violate Mandatory Standard for Clothing Storage Units",
+   "brand": "Zhangzhou Jinhao Sen Smart Home",
+   "brandColorHex": "B03B4A",
+   "category": "home_kitchen",
+   "productName": "Romorgniz Six-Drawer Dressers",
+   "hazard": "The recalled dressers are unstable if they are not anchored to the wall, posing tip-over and entrapment hazards that can result in risks of serious injuries or death to children. The dressers violate the mandatory safety standards as required by the STURDY Act.",
+   "description": "This recall involves Romorgniz six-drawer dressers. The wooden dressers were sold in white and black, measure about 27.6 inches wide, 15.6 inches long, 43.2 inches tall and weigh 73.3 pounds.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled dressers immediately if they are not anchored to the wall, place them in an area that children cannot access and contact Romorgniz for a full refund. Consumers will be asked to write in permanent marker “RECALLED” on the top, front and sides of the dresser, remove all drawers and send photos of the marked and disassembled dresser to Romorgnizrecall@outlook.com. Consumers should then dispose of the product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 17000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 12,078",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/Romorgniz-Recalls-Six-Drawer-Dressers-Due-to-Risk-of-Serious-Injury-or-Death-from-Tip-Over-and-Entrapment-Hazards-Violate-Mandatory-Standard-for-Clothing-Storage-Units",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11016-0.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LILzy_~p01?H%1t7-;t7D%oyxuju"
+  },
+  {
+   "id": "11015",
+   "recallNumber": "27019",
+   "title": "PACEARTH Swing Seats",
+   "headline": "Pacearth Direct Recalls PACEARTH Swing Seats Due to Risk of Serious Injury from Fall Hazard",
+   "brand": "Pacearth Direct",
+   "brandColorHex": "B0543B",
+   "category": "other",
+   "productName": "PACEARTH Swing Seats",
+   "hazard": "The seats, metal carabiners or quick links, or webbing straps of the recalled swing seats can break during use, posing a risk of serious injury due to fall hazard.",
+   "description": "This recall involves PACEARTH U-type swing seats. The swing seats were sold in various colors including green, blue, pink, red and turquoise. The chain is coated in yellow plastic. Metal carabiners or quick links and yellow webbing straps were included with the swing seats to attach the swing to outdoor swing sets or tree branches. The swing seats were sold as a single unit or a pack of two.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled swing seats immediately and contact Pacearth Direct for a full refund. Consumers will be asked to write “RECALLED” on the swing seat with permanent marker, take a photo of it, including the PACEARTH logo and email to recall@pacearth.com.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5700,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 110,550",
+   "officialURL": "https://www.cpsc.gov/Recalls/2027/Pacearth-Direct-Recalls-PACEARTH-Swing-Seats-Due-to-Risk-of-Serious-Injury-from-Fall-Hazard",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11015-0.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LoQchqxCo$x_~Vf$j]t7IoWCt6j?"
+  },
+  {
+   "id": "11014",
+   "recallNumber": "27018",
+   "title": "ONTHEWEI Baby Bath Seats",
+   "headline": "ONTHEWEI Recalls Baby Bath Seats Due to Risk of Serious Injury or Death to Children from Drowning; Violate Mandatory Standard for Infant Bath Seats",
+   "brand": "ONTHEWEI",
+   "brandColorHex": "A03B6E",
+   "category": "children_baby",
+   "productName": "ONTHEWEI Baby Bath Seats",
+   "hazard": "The recalled bath seats violate the mandatory standard for infant bath seats because they are unstable and can tip over while in use, posing a risk of serious injury or death due to drowning.",
+   "description": "This recall involves ONTHEWEI-branded baby bath seats. They are sold in gray, pink, blue and mist green and have detachable restraint arms and suction cups on the underside. “Model No: MY002” and “Date of manufacturer: 2026/1/10” are printed on a label on the back of the bath seat.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled bath seats immediately and contact ONTHEWEI for a full refund. Consumers will be asked to destroy the bath seat by writing in permanent marker “RECALLED” on the front of the bath seat, disassembling it by removing the back rest and arm restraints and cutting the three suction cups on the seat’s underside and send a photo of the destroyed bath seat showing the marked product to onthewei@outlook.com. Consumers should then dispose of the recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com in April 2026 for",
+   "units": "About 2,140",
+   "officialURL": "https://cpsc.gov/Recalls/2027/ONTHEWEI-Recalls-Baby-Bath-Seats-Due-to-Risk-of-Serious-Injury-or-Death-to-Children-from-Drowning-Violate-Mandatory-Standard-for-Infant-Bath-Seats",
+   "recallDate": "2026-10-08",
+   "lastPublishDate": "2026-10-08",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11014-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11014-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LTG[yV?cxa%L~VxtoLs;xaj?oMa}"
+  },
   {
    "id": "11013",
    "recallNumber": "27003",
@@ -79,10 +340,10 @@
    "brandColorHex": "3BA088",
    "category": "children_baby",
    "productName": "Mochi Malrang Mystery Dumpling Toys",
-   "hazard": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child’s body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
-   "description": "This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases “SOFT and SQUISHY” and “MOCHI MALRANG” are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
+   "hazard": "The mystery dumpling toys violate the mandatory safety standard for toys because the water beads inside the dumplings expand larger than permitted, posing a deadly ingestion hazard. If a water bead is ingested, it can pose ingestion, choking, and intestinal obstruction hazards inside a child's body, resulting in severe discomfort, vomiting, dehydration and a risk of death to a child.",
+   "description": "This recall involves Mochi Malrang Mystery Dumpling Toys. The mystery dumpling toys are a translucent red color, containing glitter and water beads. The toys have a cartoon face and are packaged in a tan plastic container shaped like a bamboo steamer. The phrases \"SOFT and SQUISHY\" and \"MOCHI MALRANG\" are visible on the front of the removable package labeling. There are no markings on the product, other than the cartoon face.",
    "remedyType": "refund",
-   "remedyDetail": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund. Consumers will be asked to write “RECALLED” in permanent marker on the squeezy dumpling and its tan plastic container, throw them away, and email a photo of the items in the trash to llktradinginc@gmail.com.",
+   "remedyDetail": "Consumers should stop using the mystery dumpling toys immediately and contact LLK Trading for a full refund. Consumers will be asked to write \"RECALLED\" in permanent marker on the squeezy dumpling and its tan plastic container, throw them away, and email a photo of the items in the trash to llktradinginc@gmail.com.",
    "remedyOptions": [
     "refund"
    ],
@@ -140,10 +401,10 @@
    "headline": "Walmart Recalls Over 4.4 Million Expert Grill Brushes Due to Ingestion Hazard",
    "brand": "Metal",
    "brandColorHex": "7A5A3B",
-   "category": "other",
+   "category": "tools_hardware",
    "productName": "Metal Wire Bristle Grill Brushes",
    "hazard": "Small metal wire bristles can detach from the brushes and stick to the grill or food, posing an ingestion hazard and risk of serious internal injuries that could require surgery.",
-   "description": "This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush:",
+   "description": "This recall involves certain Walmart Expert Grill metal wire bristle grill brushes. The brushes have black plastic or stainless-steel handles. Some brushes come with metal scraper attached. The following model numbers are included in this recall and can be found on the product packaging or a sticker/tag attached to the brush: Model No. Brush Description Distribution Dates EX5607031616002 Expert Grill 16-inch Steel Fiber Scrub Brush and Scraper for Grills January 2025-August 2026 EX5607031616003 Expert Grill Handheld Steel Fiber Scrub Brush with Ergonomic Handle for Grill Cleaning January 2025-August 2026 XG1310700206 Expert Grill 21\" 3-head Grill Brush with Stainless Steel Bristles and Soft-Grip Handle January 2022 to August 2026 XG1136178597003 Expert Grill Long Handle Grill Brush with Scraper, 17.7\" January 2021 to August 2026 XG1410700124 Expert Grill Grilling Accessories BBQ Grill Tools Set, 10 Pieces Stainless Steel Grill Kit December 2023 to August 2026",
    "remedyType": "refund",
    "remedyDetail": "Consumers should stop using the recalled grill brushes immediately and contact Walmart for a full refund or a credit for use at any Walmart store or Walmart.com. Consumers will be asked to return their recalled brushes to Walmart or discard them.",
    "remedyOptions": [
@@ -161,7 +422,9 @@
    "images": [
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-0.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-1.jpg",
-    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-2.jpg"
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-3.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11009-4.jpg"
    ],
    "source": "CPSC",
    "blurHash": "LBS6Pl?b~q~q~q~qof4n?bxu4nM{"
@@ -242,7 +505,7 @@
    "category": "children_baby",
    "productName": "GBYMIUY Magnetic Stick Figure Toy Sets",
    "hazard": "The magnetic stick figure toy sets violate the mandatory standard for toys because they can liberate loose high-powered magnets posing an ingestion hazard to children. When high-powered magnets are swallowed, the ingested magnets can attract each other or other metal objects and become lodged in the digestive system. This can result in perforations, twisting, and/or blockage of the intestines, blood poisoning and death.",
-   "description": "This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. “GBYMIUY” and number “X004TVHD2Z” are printed on the product packaging.",
+   "description": "This recall involves GBYMIUY stick figure toy sets. The magnetic toys were sold in packs of 30 multi-colored transparent and opaque human-shaped figures. Each figure measures about 2.91 inches tall by 2.3 inches wide. The toys contain magnets in the hand and foot locations. \"GBYMIUY\" and number \"X004TVHD2Z\" are printed on the product packaging.",
    "remedyType": "refund",
    "remedyDetail": "Consumers should take the stick figures away from children immediately, stop using them and contact GBYMIUY for a full refund. Consumers will be asked to throw away the stick figure toys and send a photo of the disposed toys to zhangfa0426@outlook.com.",
    "remedyOptions": [
@@ -339,9 +602,9 @@
    "category": "electronics",
    "productName": "Gobi Heat Rechargeable Hand Warmers",
    "hazard": "The lithium-ion battery and electrical components in the recalled hand warmers can overheat and ignite, posing a risk of serious injury from fire and burn hazards.",
-   "description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard.  “Gobi Heat” is printed on the top of the hand warmers and on the product packaging, and model number “UT3053” on the underside.",
+   "description": "This recall involves Gobi Heat-branded rechargeable hand warmers. The black with gray hand warmers were sold in packs of two warmers that can be magnetically joined together and include a charging cable. The hand warmers have a USB-C port to charge the built-in lithium-ion batteries in each unit. The adjustable-heat hand warmers have LED indicator lights on the hard plastic shell and come with a silicone lanyard.  \"Gobi Heat\" is printed on the top of the hand warmers and on the product packaging, and model number \"UT3053\" on the underside.",
    "remedyType": "refund",
-   "remedyDetail": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker “Recalled” on the product and send a photo, showing the marked hand warmer and the product’s model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. \n\nNote: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
+   "remedyDetail": "Consumers should stop using the recalled hand warmers immediately and contact Gobi Heat for a full refund or store credit, equal to full refund of the purchase price plus 20% of that amount. Consumers will be asked to go to https://gobiheat.com/pages/handwarmer-recall to obtain a claim number and instructions to destroy the hand warmers by writing in permanent marker \"Recalled\" on the product and send a photo, showing the marked hand warmer and the product's model, to recall@gobiheat.com. Consumers should then dispose of the recalled product with the lithium-ion battery, in accordance with applicable local and state hazardous waste regulations. Note: Do not throw this recalled lithium-ion battery or device in the trash, the general recycling stream (e.g., street-level or curbside recycling bins), or used battery recycling boxes found at various retail and home improvement stores. Recalled lithium-ion batteries must be disposed of differently than other batteries, because they present a greater risk of fire. Your municipal household hazardous waste (HHW) collection center may accept this recalled lithium-ion battery or device for disposal. Before taking your battery or device to a HHW collection center, contact that office ahead of time and ask whether it accepts recalled lithium-ion batteries. If it does not, contact your municipality for further guidance.",
    "remedyOptions": [
     "refund"
    ],
