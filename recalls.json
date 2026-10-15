@@ -1,7 +1,39 @@
 {
- "generatedAt": "2026-10-14T14:39:12Z",
+ "generatedAt": "2026-10-15T14:16:10Z",
  "source": "CPSC+FDA",
  "recalls": [
+  {
+   "id": "11022",
+   "recallNumber": "27024",
+   "title": "Scotch™ Thermal Laminators",
+   "headline": "3M Company Recalls Scotch™ Thermal Laminators Due to Risk of Serious Injury or Death from Fire Hazard",
+   "brand": "3M",
+   "brandColorHex": "B08A3B",
+   "category": "other",
+   "productName": "Scotch™ Thermal Laminators",
+   "hazard": "The recalled thermal laminators can overheat, posing a fire hazard.",
+   "description": "This recall involves the Scotch™ thermal laminator, model number TL1302Z.  The laminator is light gray/white with gray accents and the word “Scotch” is printed in gray on the front. The laminating slot is approximately 13 inches wide, and the machine has a carrying handle on the right side of the machine when viewing from the front. The model number TL1302Z is located on the sticker on the bottom of the laminator and can also be found on the product packaging.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using and unplug the recalled thermal laminators immediately and contact 3M Company to receive a full refund. Consumers will be asked to fill out the online recall registration form at https://www.scotchbrand.com/3M/en_US/scotch-brand/tl1302Z-laminator-recall/, confirm that their laminator is included in the recall and upload a photograph of the laminator with the unplugged power cord cut. The refund, in the form of a check, will be mailed to the consumer upon receipt of the completed form and confirmation that the laminator’s power cord has been cut. Consumers should dispose of the recalled laminator in accordance with local and state laws governing electronics recycling.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5600,
+   "noReceiptNeeded": false,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 53,634",
+   "officialURL": "https://cpsc.gov/Recalls/2027/3M-Company-Recalls-ScotchTM-Thermal-Laminators-Due-to-Risk-of-Serious-Injury-or-Death-from-Fire-Hazard",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11022-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11022-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LOSF;M%Mxu-;?bofWBj[~qofM{j["
+  },
   {
    "id": "11021",
    "recallNumber": "27015",
@@ -2057,7 +2089,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10970-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/ZMC7.png?VersionId=i_wwYh1MUflfft7.dzesFSaj1NlwqT0H"
+    "https://www.cpsc.gov/s3fs-public/ZMC7.png"
    ],
    "source": "CPSC",
    "blurHash": "LJG[vByV$x%L_4xvocob?Z$*XTM{"
@@ -2128,7 +2160,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10968-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10968-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10968-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/dual7.png?VersionId=QfKdQXxONHq_oV359BLMFvG5nccHG2bk"
+    "https://www.cpsc.gov/s3fs-public/dual7.png"
    ],
    "source": "CPSC",
    "blurHash": "LKPjMnD$~XRiD%MxxuM{IWRkt6j["
@@ -2790,17 +2822,17 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10946-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10946-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10946-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonXR2026.png?VersionId=sNE1FNqfucYDZ_5mbsS1a7v0v.l5oSvf",
-    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonRRS2026.png?VersionId=gT6LGa6G_rukq136_jPpbbF4dV9Evna3",
-    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonRRSL2026.png?VersionId=ZWILHDtV3JWZZA77By3FuPYfEq7x.KWH",
-    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonUnlimitedGulf2026.png?VersionId=bj0xKtMdiJ9ZXY0u0YuDkXXihPDA.xci",
-    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonUnlimited2026.png?VersionId=O8ndpLiP.CVDwhEDGlXY8D94PLXkRj5e",
-    "https://www.cpsc.gov/s3fs-public/RecalledFoxyCarbonRR2026.png?VersionId=UM_2rVVdZc6BlHKHglWheQFuCqwCaYR5",
-    "https://www.cpsc.gov/s3fs-public/Recalled%20LEVEL%20XR%202026%20.png?VersionId=jx_JBg.Mr7iqDzN2Wp_CGj77JGD2H8uR",
-    "https://www.cpsc.gov/s3fs-public/RecalledRazeCarbonRR2026.png?VersionId=qjXVuLWCSxCDZU6pe0h_AjuAfZF6dkKi",
-    "https://www.cpsc.gov/s3fs-public/RecalledZenditRRs2027.png?VersionId=oxdaV9CN4i1JtATlyugTyeajRRe2BbXV",
-    "https://www.cpsc.gov/s3fs-public/RecalledZenditRR2027.png?VersionId=pPOtP6JHTFgGRhSCeS2tBDHUKBo1fxr.",
-    "https://www.cpsc.gov/s3fs-public/RecalledZenditXR2027.png?VersionId=4qKZe9Fo8.512vO3jgouU0PiXW64CiwQ"
+    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonXR2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonRRS2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonRRSL2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonUnlimitedGulf2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledCraftyCarbonUnlimited2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledFoxyCarbonRR2026.png",
+    "https://www.cpsc.gov/s3fs-public/Recalled%20LEVEL%20XR%202026%20.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledRazeCarbonRR2026.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledZenditRRs2027.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledZenditRR2027.png",
+    "https://www.cpsc.gov/s3fs-public/RecalledZenditXR2027.png"
    ],
    "source": "CPSC",
    "blurHash": "LPS6Pl%Mxu%M?bofIUWB~qofWBof"
@@ -3979,21 +4011,21 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10953-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10953-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10953-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/Picture19_6.png?VersionId=DDd4i13zAEnWVBt5MLI.y63B_0hoKw4f",
-    "https://www.cpsc.gov/s3fs-public/Picture20_7.png?VersionId=K97gmvbjA.fznG0qndu8zSpMjtRC4X.c",
-    "https://www.cpsc.gov/s3fs-public/Picture21_7.png?VersionId=A8X9Kcuhr4YxmWG.ZxnxMdQfbunmpiHw",
-    "https://www.cpsc.gov/s3fs-public/Picture22_6.png?VersionId=c8dGV5eUhaXSYgLwFFwUVZFVL3PffoDk",
-    "https://www.cpsc.gov/s3fs-public/Picture23_5.png?VersionId=6ib9ofmcLFACU19MRnMXLBwbNhS3MR1M",
-    "https://www.cpsc.gov/s3fs-public/Picture24_5.png?VersionId=2gwcWm9sRbq_V8uLgf.D49D0TeGsA2yQ",
-    "https://www.cpsc.gov/s3fs-public/Picture25_5.png?VersionId=LwZR.yWL_iwDRV1_N0gKaIAmBqqCQcbp",
-    "https://www.cpsc.gov/s3fs-public/Picture26_4.png?VersionId=03uZMJKjNo9Fl6NXMSkC5CUK77oNxPbj",
-    "https://www.cpsc.gov/s3fs-public/Picture27_3.png?VersionId=SwP2wRGBMWuvu_a7dF1KOWRPMUl1SQcB",
-    "https://www.cpsc.gov/s3fs-public/Picture28_2.png?VersionId=mlSKlV_v8Evg5i.eUsQbgUnN5ObU_Z4j",
-    "https://www.cpsc.gov/s3fs-public/Picture29_1.png?VersionId=twril3ZUyAVPZvH6MXfGQaX6yjKM.Zv5",
-    "https://www.cpsc.gov/s3fs-public/Picture30_0.png?VersionId=xjKy4uuFEbPtnULqlmZ0BtHJtUQQnlfg",
-    "https://www.cpsc.gov/s3fs-public/Picture31_1.png?VersionId=20fL2yiI9ABl3OMryxJUTLpKEaGkDllt",
-    "https://www.cpsc.gov/s3fs-public/Picture32.png?VersionId=w7Ap2LpKV9CZ6_pUB54mLNP0shZCHHd9",
-    "https://www.cpsc.gov/s3fs-public/Picture34_0.png?VersionId=ZbIbhHCZTwUr3o7QRwAtCL_8_1HANPNn"
+    "https://www.cpsc.gov/s3fs-public/Picture19_6.png",
+    "https://www.cpsc.gov/s3fs-public/Picture20_7.png",
+    "https://www.cpsc.gov/s3fs-public/Picture21_7.png",
+    "https://www.cpsc.gov/s3fs-public/Picture22_6.png",
+    "https://www.cpsc.gov/s3fs-public/Picture23_5.png",
+    "https://www.cpsc.gov/s3fs-public/Picture24_5.png",
+    "https://www.cpsc.gov/s3fs-public/Picture25_5.png",
+    "https://www.cpsc.gov/s3fs-public/Picture26_4.png",
+    "https://www.cpsc.gov/s3fs-public/Picture27_3.png",
+    "https://www.cpsc.gov/s3fs-public/Picture28_2.png",
+    "https://www.cpsc.gov/s3fs-public/Picture29_1.png",
+    "https://www.cpsc.gov/s3fs-public/Picture30_0.png",
+    "https://www.cpsc.gov/s3fs-public/Picture31_1.png",
+    "https://www.cpsc.gov/s3fs-public/Picture32.png",
+    "https://www.cpsc.gov/s3fs-public/Picture34_0.png"
    ],
    "source": "CPSC",
    "blurHash": "LVQ]+w?u-;IUt7D%WBxu~q9FD%-;"
