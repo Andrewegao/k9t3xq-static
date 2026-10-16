@@ -1,7 +1,170 @@
 {
- "generatedAt": "2026-10-15T14:16:10Z",
+ "generatedAt": "2026-10-16T14:04:42Z",
  "source": "CPSC+FDA",
  "recalls": [
+  {
+   "id": "11027",
+   "recallNumber": "27028",
+   "title": "101 Dalmatians Faux Leather Coin Purses",
+   "headline": "Primark Recalls 101 Dalmatians Faux Leather Children’s Coin Purses Due to Phthalate Levels and Risk of Ingestion",
+   "brand": "Primark US",
+   "brandColorHex": "B0543B",
+   "category": "children_baby",
+   "productName": "101 Dalmatians Faux Leather Coin Purses",
+   "hazard": "The coin purses contain higher phthalate concentration levels. Phthalates can be harmful if young children are exposed to sufficient amounts, including through ingestion, and certain phthalates have been associated with adverse health effects, particularly effects on development and the hormone system.",
+   "description": "This recall involves the Primark 101 Dalmatians Faux Leather Coin Purse, Model No. 2595301. The coin purse is black and has a picture of a dalmatian and “101 Dalmatians” printed on the front. The model number is located on the product tag attached to the zip puller.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the coin purses immediately, keep them away from children and return them to a Primark store for a full refund in the original form of payment.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 900,
+   "noReceiptNeeded": true,
+   "claimEase": 2,
+   "recognizability": 0,
+   "retailer": "Sold At:\nPrimark stores located in the Northeast",
+   "units": "About 2,100",
+   "officialURL": "https://cpsc.gov/Recalls/2027/Primark-Recalls-101-Dalmatians-Faux-Leather-Childrens-Coin-Purses-Due-to-Phthalate-Levels-and-Risk-of-Ingestion",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11027-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11027-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LZHV6nxu~q%2%Mt7t7ofWBWAxuax"
+  },
+  {
+   "id": "11026",
+   "recallNumber": "27025",
+   "title": "Blitz and Blitz 777 air rifles",
+   "headline": "HatsanUSA Recalls Blitz Air Rifles Due to Risk of Serious Injury or Death from Projectile Hazard",
+   "brand": "HatsanUSA",
+   "brandColorHex": "3B7AB0",
+   "category": "other",
+   "productName": "Blitz and Blitz 777 air rifles",
+   "hazard": "The recalled air rifles can fire unexpectedly when releasing the bolt before the air rifle is fully cocked, posing a risk of serious injury or death from projectile hazard.",
+   "description": "This recall involves all units of the Hatsan Blitz and Blitz 777 pellet shooting air rifles sold from February 2020 through March 2026. Both the Blitz and Blitz 777 pellet air rifles were sold in .22, .25 and .30 calibers. The pellet air rifles are gas operated and select-fire (semi-auto/full-auto) pre-charged pneumatic (PCP). They are black and feature a synthetic stock, a carbon fiber air tank mounted beneath the barrel and a rotary magazine feed. Serial numbers and manufacturing dates are engraved on the right side of the receiver above the bolt. On the left side of the receiver is the Hatsan logo, featuring a circular mark, with the word “HATSAN” next to a graphic of a bow and arrow. The model name “BLITZ” or “BLITZ 777” is also marked on the left side of the receiver.",
+   "remedyType": "replace",
+   "remedyDetail": "Consumers should stop using the recalled air rifles immediately, make sure they are unloaded and contact HatsanUSA for a free trigger assembly replacement which will be mailed along with instructions. If the consumer does not want to complete the replacement of the air rifle trigger assembly on their own, HatsanUSA will provide a prepaid package to ship the product to HatsanUSA for inspection and replacement.",
+   "remedyOptions": [
+    "replace"
+   ],
+   "moneyCents": null,
+   "noReceiptNeeded": true,
+   "claimEase": 1,
+   "recognizability": 0,
+   "retailer": "Sold At:\nIn",
+   "units": "About 16,170",
+   "officialURL": "https://cpsc.gov/Recalls/2027/HatsanUSA-Recalls-Blitz-Air-Rifles-Due-to-Risk-of-Serious-Injury-or-Death-from-Projectile-Hazard",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11026-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11026-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11026-2.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11026-3.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LsQcn{-;%Mt7%MRjj[of~qRjM{fQ"
+  },
+  {
+   "id": "11025",
+   "recallNumber": "27029",
+   "title": "Xalirium Adult Portable Bed Rails",
+   "headline": "usOpal Recalls Xalirium Portable Bed Rails Due to Risk of Serious Injury or Death from Entrapment and Asphyxiation; Violate Mandatory Standard for Adult Portable Bed Rails",
+   "brand": "Xalirium",
+   "brandColorHex": "6E54B0",
+   "category": "other",
+   "productName": "Xalirium Adult Portable Bed Rails",
+   "hazard": "The recalled bed rails violate the mandatory standard for adult portable bed rails because when the bed rails are attached to a bed, users can become entrapped within the bed rail or between the bed rail and the side of the mattress, posing a serious entrapment hazard and risk of death by asphyxiation. The bed rails do not meet structural stability or retention strap requirements, posing a fall hazard. In addition, the bed rails do not bear the required hazard warning labels.",
+   "description": "This recall involves Xalirium-branded adult portable bed rails. They have a white frame with black foam rubber grips and a black fabric pouch. The bed rails measure about 17.15 inches high, 4.33 inches wide and 1.99 inches long. \"Xalirium\" is printed on the label of the product packaging. Only bed rails without vertical bars inside the opening are included in this recall.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled adult portable bed rails immediately and contact usOpal for a full refund. Consumers will be asked to cut the black storage bag and straps and to cut the foam padding on the bed rails, write “RECALLED” on the upper and lower bed rails, and send a photo of the marked rails to xaliriumofficial@outlook.com. Consumers should then dispose of the recalled product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 6000,
+   "noReceiptNeeded": true,
+   "claimEase": 3,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 200",
+   "officialURL": "https://cpsc.gov/Recalls/2027/usOpal-Recalls-Xalirium-Portable-Bed-Rails-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-and-Asphyxiation-Violate-Mandatory-Standard-for-Adult-Portable-Bed-Rails",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11025-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11025-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LNRysg_3~qRjIUxu-;IURjj[t7fQ"
+  },
+  {
+   "id": "11024",
+   "recallNumber": "27027",
+   "title": "Papablic Bedside Sleepers with Play Yard Extensions",
+   "headline": "Papablic, of USA Recalls Convertible Bedside Sleepers Due to Risk of Serious Injury or Death from Entrapment, Suffocation and Fall Hazards; Violate Mandatory Standard for Play Yards",
+   "brand": "Papablic, Inc., doing business asPapablic",
+   "brandColorHex": "B03B4A",
+   "category": "children_baby",
+   "productName": "Papablic Bedside Sleepers with Play Yard Extensions",
+   "hazard": "The bedside sleepers with play yard extensions violate the mandatory safety standard for play yards because the mattress can become displaced causing a baby to become entrapped between the sleeping pad and bottom posing a deadly suffocation hazard. In addition, the latching and locking mechanism can fail, causing the product to collapse, posing a risk of serious injury or deadly entrapment and fall hazards.",
+   "description": "This recall involves Papablic bedside sleepers, model PAPA03001AI. These convertible sleepers function as both a bassinet and a play yard and have a gray exterior with an interior printed in a stars‑and‑moon pattern. The products have “Papablic” stitched in white on the front gray fabric panel. Model “PAPA03001AI” is printed on a label sewn to the interior fabric of the bassinet underneath the mattress pad.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the convertible bedside sleeper immediately and contact Papablic for a refund. Consumers will be asked to disassemble the product, cut the mattress and fabric components in half and email photos of the destroyed components to support@papablic.com. Upon receipt of proof of destruction, Papablic will issue a full refund and consumers should dispose of the product.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 19000,
+   "noReceiptNeeded": false,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold Online At:\nAmazon.com",
+   "units": "About 248",
+   "officialURL": "https://cpsc.gov/Recalls/2027/Papablic-of-USA-Recalls-Convertible-Bedside-Sleepers-Due-to-Risk-of-Serious-Injury-or-Death-from-Entrapment-Suffocation-and-Fall-Hazards-Violate-Mandatory-Standard-for-Play-Yards",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11024-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11024-1.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LLPs#D_3?a%MWBRjoft7~qayM{WB"
+  },
+  {
+   "id": "11023",
+   "recallNumber": "27026",
+   "title": "Crystal Glass Cups with Loose Crystal Chips",
+   "headline": "Loving Thyself Rocks Recalls Crystal Glass Cups Due to Risk of Serious Injury from Ingestion and Laceration Hazards",
+   "brand": "Loving Thyself Rocks",
+   "brandColorHex": "2E6F5E",
+   "category": "other",
+   "productName": "Crystal Glass Cups with Loose Crystal Chips",
+   "hazard": "Glass can break inside the recalled cups while in use, posing a risk of serious injury from ingestion and laceration hazards.",
+   "description": "This recall affects Crystal Glass Cups containing loose crystal stone chips between two layers of glass. The cups are intended for both decorative use and drinking. Each cup measures approximately 3.5 by 3 inches. The crystal stone chips are sold in various options: amethyst, black obsidian, rose quartz, smoke quartz, fire and clear quartz, moss agate, hematite, black tourmaline, black tourmaline in quartz, charoite, blue apatite, morganite, larimar, red jasper, malachite, garnet, kunzite, fluorite, peridot, aquamarine, watermelon tourmaline, carnelian, lapis lazuli, tigers eye and labradorite.",
+   "remedyType": "refund",
+   "remedyDetail": "Consumers should stop using the recalled crystal cup immediately and register at http://www.lovingthyselfrocks.com/recall to receive a full refund in the form of original payment. Consumer will be asked to fill out an online form and submit a photograph with the word “RECALL” written on the front of the crystal cup in permanent black marker. Consumers will be asked to attest to proper disposal of the recalled cup following the instructions on the firm’s website.",
+   "remedyOptions": [
+    "refund"
+   ],
+   "moneyCents": 5000,
+   "noReceiptNeeded": false,
+   "claimEase": 2,
+   "recognizability": 2,
+   "retailer": "Sold At:\nLoving Thyselfstore",
+   "units": "About 600",
+   "officialURL": "https://cpsc.gov/Recalls/2027/Loving-Thyself-Rocks-Recalls-Crystal-Glass-Cups-Due-to-Risk-of-Serious-Injury-from-Ingestion-and-Laceration-Hazards",
+   "recallDate": "2026-10-15",
+   "lastPublishDate": "2026-10-15",
+   "images": [
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11023-0.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11023-1.jpg",
+    "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11023-2.jpg"
+   ],
+   "source": "CPSC",
+   "blurHash": "LIJH8b$%xs=|3C9aIVEL^jSLxa-U"
+  },
   {
    "id": "11022",
    "recallNumber": "27024",
@@ -1259,8 +1422,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10985-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10985-5.jpg"
    ],
-   "source": "CPSC",
-   "blurHash": "LFNwWdxu~q%M9Foft7WB?bt7WBj["
+   "source": "CPSC"
   },
   {
    "id": "10984",
@@ -1460,8 +1622,7 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10979-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/10979-4.jpg"
    ],
-   "source": "CPSC",
-   "blurHash": "LuNJzjWB_4-;xuj[WBWWozj]adWB"
+   "source": "CPSC"
   },
   {
    "id": "10978",
