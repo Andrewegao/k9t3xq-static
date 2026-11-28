@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:10:55Z",
+ "generatedAt": "2026-11-28T09:10:17Z",
  "source": "CPSC+FDA",
  "recalls": [
   {
@@ -226,9 +226,9 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11066-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11066-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11066-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/Hultafors7.png?VersionId=AFmEANqSVdr776BukSUAXYO4U0Xn11Hl",
-    "https://www.cpsc.gov/s3fs-public/Hultafors8.png?VersionId=43wXKG5YXqHzjaoyJbNDFjfA7p4JhKu1",
-    "https://www.cpsc.gov/s3fs-public/Hultafors9.png?VersionId=Tzg0hIsyRxWCNwEF2UEhf02.GulIIYzc"
+    "https://www.cpsc.gov/s3fs-public/Hultafors7.png",
+    "https://www.cpsc.gov/s3fs-public/Hultafors8.png",
+    "https://www.cpsc.gov/s3fs-public/Hultafors9.png"
    ],
    "source": "CPSC",
    "blurHash": "LeJ*u101xv?Yxvt7t6Rkt8xutQM|"
@@ -619,9 +619,9 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11055-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11055-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11055-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/USTitan7.png?VersionId=ypgP6TPa_lFK05_VO7gX85YZqmLpyurl",
-    "https://www.cpsc.gov/s3fs-public/USTitan8.png?VersionId=msguTnTXC4nu2wiiOWrVghzy1ujGAwzN",
-    "https://www.cpsc.gov/s3fs-public/USTitan9.png?VersionId=FTDSnYZZab41ScPfWucDm7k7xfTL83k6"
+    "https://www.cpsc.gov/s3fs-public/USTitan7.png",
+    "https://www.cpsc.gov/s3fs-public/USTitan8.png",
+    "https://www.cpsc.gov/s3fs-public/USTitan9.png"
    ],
    "source": "CPSC",
    "blurHash": "L+M@ZVxu?bxuxut7t7of~qj[Rjof"
@@ -759,13 +759,13 @@
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11051-3.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11051-4.jpg",
     "https://cdn.jsdelivr.net/gh/Andrewegao/k9t3xq-static@main/images/11051-5.jpg",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant7.jpg?VersionId=TXlh_mjZksvU1Z3X4sX1udo5bt.O0GOy",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant8.jpg?VersionId=4eIta_4PJyGdd4uK79tUdr1R3QJa1xfZ",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant9.jpg?VersionId=qx69E7czI3mD3E4zpliJtuRz0qwx3ous",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant10.jpg?VersionId=aOH3HuE8JfMXl.UUvtYcA5SfVEt0KzIi",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant11.jpg?VersionId=OTUtf2yuyT4x5OX9xOBz24X2SjRjgePf",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant12.jpg?VersionId=qT5xlwvO5i6NbltmVuHSBIdURlh0BjZQ",
-    "https://www.cpsc.gov/s3fs-public/LittleGiant13.jpg?VersionId=BrLpI.HVE2oukFX1hkr_09aV1OW.8nxh"
+    "https://www.cpsc.gov/s3fs-public/LittleGiant7.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant8.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant9.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant10.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant11.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant12.jpg",
+    "https://www.cpsc.gov/s3fs-public/LittleGiant13.jpg"
    ],
    "source": "CPSC",
    "blurHash": "LUR:HD%M~X%M-;ofofR%%3fkInoM"
